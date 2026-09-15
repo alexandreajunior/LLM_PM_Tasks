@@ -1,0 +1,9 @@
+In the event log provided, there were several activities that took longer than usual and may hint at unexpected issues or obstacles during the project executions. Some of these instances include:
+
+1. The task "Solicitante/cliente deverá informar a Data de Entrada de Produção dos Servidores" in Project ID US37581 took 2 days, which may indicate a delay in obtaining crucial information required for the project. This delay could have been managed by following up with the client and clearly communicating the importance of providing the necessary details promptly.
+
+2. The task "Montar DSOL para apresentar na Plenária(Atendendo checklist)" in Project ID US37581 took 10 days, significantly longer than other tasks. This may suggest difficulties in completing the required documentation or meeting certain standards. To manage this delay, a more efficient checklist or documentation process could have been implemented.
+
+3. The task "Implementação de Monitoração (ativação)" in Project ID US285851 took 3 days, which could indicate technical challenges or complexities in implementing the monitoring system. To manage this, additional technical support or resources could have been allocated to expedite the implementation process.
+
+Overall, these unexpected delays or obstacles could have been managed through effective communication, proactive problem-solving, and possibly reallocating resources to address the issues promptly.

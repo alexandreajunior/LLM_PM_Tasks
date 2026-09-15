@@ -1,0 +1,16 @@
+After reviewing the project plan, I couldn't find any explicit mention of unexpected issues or obstacles being encountered during the project execution. However, it's likely that some unforeseen challenges arose, given the scope and complexity of the project.
+
+That being said, based on the project plan, here are a few potential areas where unexpected issues might have arisen:
+
+1. **Backup implementation**: The project plan doesn't specify any details about implementing backups for the MySQL database. This might lead to issues if the backup process isn't implemented correctly.
+2. **Monitorization setup**: The plan mentions implementing monitorization (ativação), but it's not clear how this was done or whether any issues were encountered during its setup.
+3. **Blackout of monitorization**: Similarly, the plan doesn't provide details on how to implement a blackout of monitorization, which might lead to issues if not implemented correctly.
+
+To manage such unexpected issues, the project team could have:
+
+1. Established a change management process to quickly identify and address any issues that arise during the project.
+2. Conducted regular review meetings to discuss progress, identify potential risks, and adjust the project plan accordingly.
+3. Developed contingency plans for specific scenarios, such as backup implementation or monitorization setup failures.
+4. Involved stakeholders, including users and subject matter experts, in the decision-making process to ensure that their concerns are addressed.
+
+If you'd like me to infer more about how these issues were managed based on the available information, please let me know!

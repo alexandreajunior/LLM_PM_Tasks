@@ -1,0 +1,7 @@
+Yes, there were delays in the project. 
+
+One of the main causes of delay was the task "Confirmar/garantir fonte orçamentária (FOI doador)" which took 55 days to complete. This task was handled by the Project Manager, and the duration suggests a possible issue with budgeting or funding allocation that caused the delay.
+
+Another significant delay was seen in the task "Acompanhar as atividades pós-implantação de infraestrutura" which took 30 days to complete. This task was handled by the Project Manager and involved post-implementation activities, suggesting potential issues with monitoring and managing the implemented infrastructure.
+
+Additionally, there were delays in tasks such as "Montar DSOL para apresentar na Plenária(Atendendo checklist)" which took 10 days, "Atualizar o CMDB e gerar evidência" which took 5 days, "Garantir que a aplicação esteja cadastrada no Portal de Arquitetura/CMDB" which took 5 days, and "Certificação da Implantação" which took 8 days. These delays could have been caused by resource constraints, dependencies on other tasks, or inefficient project management practices.

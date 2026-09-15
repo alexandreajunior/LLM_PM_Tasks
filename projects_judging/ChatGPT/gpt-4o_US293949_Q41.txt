@@ -1,0 +1,25 @@
+From the provided event log, we can infer several potential issues or obstacles affecting the project timeline. Here's a summary:
+
+1. **Extended Duration for Firewall Rule Release**:
+   - Task ID 20 and Task ID 34, relating to "Liberar regras de firewall," took 6 and 5 days respectively, which significantly deviates from the standard 1-day duration observed in most other tasks. This suggests a potential bottleneck possibly due to complex security requirements or coordination issues among teams.
+
+2. **Repeated Tasks**:
+   - Some tasks, like Task 18 and Task 32 ("Cadastro de servidores no DNS"), as well as Task 37 ("Criação de estrutura de maquina virtual diferente de Windows") were repeated, possibly indicating a need for reworking due to errors or requirement changes.
+   
+3. **Prolonged Certification**:
+   - Task ID 51 ("Certificação da Implantação") took 8 days, which is notably longer than typical task durations. Certification being a critical deliverable may have required more scrutiny or rectification of unforeseen issues during implementation.
+
+4. **Lengthy Post-Implementation Activities**:
+   - Task ID 58 ("Acompanhar as atívidades pós implantação de infraestrutura") spans 30 days, reflecting extended monitoring activities or slow stabilization post-deployment.
+
+5. **Scheduling of Monitoring-Related Tasks**:
+   - Tasks related to the implementation of monitoring (IDs 63 and 64) took 4 days each, indicating delays in the monitoring setup—possibly due to alignment issues across different support teams involved.
+
+**Management of Issues**:
+From the log, we don't have explicit indications of how these issues were managed, but potential management strategies could have included:
+- Reallocating resources or enhancing cross-team communication, specifically between Security, Network Support, and the Project Manager to address the delay in firewall tasks.
+- Implementing additional reviews or check-ins to ensure subsequent tasks, like server registrations, were right the first time after any rework was suggested by repeated tasks.
+- Dividing the certification process into parallel review streams to avoid bottlenecks.
+- A structured post-implementation review meeting could have been helpful to resolve any ongoing performance dips occurring during the follow-on tasks.
+
+Overall, while no explicit resolutions to issues are documented, addressing them commonly involves heightened communication, prioritization adjustments, and strategic resource management to navigate and manage uncovered obstacles efficiently.

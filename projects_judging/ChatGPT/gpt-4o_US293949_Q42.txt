@@ -1,0 +1,23 @@
+To determine whether the project managed to stay within the allocated resources (human, financial, technical), we need to review the event log for any indications of resource overuse or extended durations that may suggest additional costs or resource strain. Here's a quick summary of key observations from the provided event log:
+
+1. **Duration of Tasks:**
+   - Most tasks were completed within one to two days, which seems to be within planned expectations given their complexity typical for IT infrastructure tasks.
+   - However, certain tasks took significantly longer than the typical duration. For example:
+     - "Liberar regras de firewall" was executed twice and took 6 days and 5 days, respectively.
+     - "Certificação da Implantação" also took 8 days on two occasions.
+     - "Acompanhar as atividades pós implantação de infraestrutura" took 30 days.
+   - These extended durations may indicate potential delays but would need to be compared with baseline durations to assess if they were indeed beyond planned timelines.
+
+2. **Resource Utilization:**
+   - The resources appear to be specialized for specific tasks (e.g., "Segurança da Informação" for security-related tasks, "Suporte Windows" for Windows tasks), indicating an efficient allocation of human resources.
+   - Several tasks involved shared responsibilities among multiple departments, such as "Liberar regras de firewall," which involved "Segurança da Informação" and "Suporte Rede Corporativa." This indicates cross-department cooperation but may also contribute to delays if not managed effectively.
+
+3. **Resource Allocation:**
+   - The nature of tasks suggests the use of specialized knowledge, which may imply higher costs due to specialized personnel. If the allocation of these tasks went beyond the expected number of days, it could lead to increased labor costs.
+   - Some tasks indicate bundled resource usage, such as combined security and network support ("Segurança da Informação[50%];Suporte Rede Corporativa[50%]").
+
+4. **Overall Assessment:**
+   - The extended durations of certain tasks and the need for specialized resources could lead to increased costs if these durations are beyond what was initially planned.
+   - Without specific financial metrics or budget details provided in this event log, it's difficult to ascertain definitively whether the financial and technical resources were exceeded.
+
+To conclude, the project likely faced some challenges with staying within allocated human and potentially financial resources due to task overruns. However, precise determination would require additional information on planned versus actual durations, budget constraints, and the cost of extended tasks.

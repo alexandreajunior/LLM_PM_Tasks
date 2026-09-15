@@ -1,0 +1,26 @@
+To determine if there were any delays in the project and identify potential causes, we can analyze the event log to look for activities that took significantly longer than others of a similar nature or had a prolonged duration that does not align with the overall project timeline.
+
+Here are some observations:
+
+1. **Long Activity Durations:**
+   - The task "Montar DSOL para apresentar na Plenária(Atendendo checklist)" took 10 days. This is significantly longer than most other tasks, indicating it might be a potential bottleneck.
+   - The task "Solicitar CF" took 5 days, which, given the type of task (a request), might have been affected by external dependencies.
+   - "Liberação de regras de firewall" also took 5 days. Security-related tasks might involve thorough checks and processes, but if other similar tasks are faster, this might indicate a delay.
+   - "Certificação da Implantação" appears twice with 8 days for each occurrence, suggesting it’s an extensive process potentially impacting timelines.
+   - The task "Acompanhar as atividades pós implantação de infraestrutura" lasted 22 days. This seems like an exceptionally long period, potentially covering various post-implementation tasks where delays might accumulate.
+
+2. **Resource Utilization:**
+   - The same resources are involved in executing multiple tasks, such as the Project Manager and "Segurança da Informação," who might be overburdened, leading to potential delays due to resource constraints.
+
+3. **Concurrent Tasks:**
+   - Several tasks initiated and completed during similar timelines might hint at possible delays, especially if resource allocation wasn't optimal. For example, from 16.10.2024 to 25.10.2024, numerous tasks overlapped, which might have strained the resources and extended durations.
+
+4. **Gaps in Activity Timelines:**
+   - Notable gaps exist between tasks, such as from the end of "Solicitar a Reserva/alocação de IP- Específico para servidores virtuais" to the start of "Cadastrar Servidor no GA - Windows," which indicates potential waiting periods or delays due to dependencies not being immediately addressed.
+
+5. **Extreme Durations at Project End:**
+   - The final phase of the project has several 1-day tasks (e.g., "Fechar ARS Pai," "Atualizar SPS e Clarity") on the last day (28.11.2024), which suggests a final push or recovery attempt for potential cumulative delays earlier in the project.
+
+**Conclusion:**
+
+The activities noted above, especially those with prolonged durations, suggest possible delays primarily due to comprehensive or complex processes within those tasks, potential resource constraints, or dependencies not being met in a timely fashion. Furthermore, concurrent activities and prolonged tasks led by specific teams might have contributed to these delays. Additionally, specific critical phases, like "Certificação da Implantação," might require extensive checks causing extended timelines. Finally, the final day rush indicates an effort to complete tasks potentially delayed earlier, suggesting cumulative delays might have occurred throughout the project.

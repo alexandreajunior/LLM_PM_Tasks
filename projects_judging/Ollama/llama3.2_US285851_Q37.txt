@@ -1,0 +1,17 @@
+Based on this project's experience, I would advise future project teams as follows:
+
+1. **Be cautious with resource allocation**: The project had two instances of "Solicitante/cliente deverá informar a Data de Entrada de Produção dos Servidores (ativação da Monitoração)" tasks, which took 2 days each. This suggests that there was some miscommunication or oversight in the initial planning phase. Future teams should ensure that resource allocation is accurate and realistic.
+
+2. **Monitor progress closely**: The project had several delays, including the "Montar relatório de entrega/checklist parcial" task, which took 2 days to complete. This suggests that the team may not have been monitoring progress as closely as they should have. Future teams should regularly review progress and adjust their plans accordingly.
+
+3. **Plan for contingencies**: The project had a long "Acompanhar as atividades pós-implantação de infraestrutura" task, which took 30 days to complete. This suggests that the team may not have planned for contingencies or unexpected delays. Future teams should always plan for potential setbacks and have contingency plans in place.
+
+4. **Effective communication is key**: The project had several instances of "Enviar email para o solicitante", which suggests that effective communication with stakeholders was crucial. Future teams should prioritize clear and regular communication to ensure that all parties are informed and aligned throughout the project.
+
+5. **Avoid duplication of effort**: There were two instances of "Cadastro de servidores no DNS (.intranet, .interno, .backup e etc)" tasks, which took 1 day each. This suggests that there was some duplication of effort or overlapping work. Future teams should ensure that all tasks are clearly defined and prioritized to avoid such inefficiencies.
+
+6. **Be realistic about task duration**: The project had several tasks with durations that were significantly longer than expected, such as the "Confirmar/garantir se a aplicação está cadastrada no Portal de Arquitetura/CMDB" task, which took 5 days. Future teams should always be cautious when estimating task duration and allow for flexibility in their plans.
+
+7. **Use checklists and review processes**: The project had several instances of "Validar entrega parcial" and "Gerar o checklist", which suggests that the team may not have been using effective review processes or checklists. Future teams should consider implementing standardized review processes to ensure quality and consistency throughout the project.
+
+By following these lessons learned, future project teams can avoid similar pitfalls and increase their chances of success.

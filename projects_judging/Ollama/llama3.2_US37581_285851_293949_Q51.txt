@@ -1,0 +1,15 @@
+After analyzing the provided project plans, I did not find any explicit mention of "unexpected issues" or "obstacles" that required special handling in each plan. However, some tasks had dependencies that spanned multiple days or weeks, indicating potential challenges if certain prerequisites were not met.
+
+Upon closer inspection, there are a few instances where delays could have occurred:
+
+1. **Task 9: Solicitar CF**: This task is dependent on Task 7 (Confirmar/garantir se a aplicação está cadastrada no Portal de Arquitetura/CMDB). If this task fails, it may cause a delay in the overall project timeline.
+2. **Task 20: Montar Cronograma**: This task seems to be dependent on the completion of several other tasks ( Tasks 6-19), as mentioned in the project plan. If any of these tasks fail or take longer than expected, this task could also be delayed.
+
+To mitigate potential risks and ensure a smooth project execution:
+
+* **Task 7** should be reviewed and verified before proceeding with Task 9.
+* **Task 20** should be closely monitored to ensure that all dependencies are met. If any issues arise, the team should be prepared to adjust the timeline accordingly.
+
+Without more detailed information about the specific challenges faced by each project, it is difficult to provide a definitive answer to the question of whether there were unexpected issues or obstacles and how they were managed. However, it appears that some tasks have dependencies that could potentially cause delays if not properly addressed.
+
+If additional context or specific details about the projects are provided, I may be able to offer more targeted insights into potential challenges and mitigation strategies.

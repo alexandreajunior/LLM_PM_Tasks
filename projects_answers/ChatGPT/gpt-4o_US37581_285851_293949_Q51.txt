@@ -1,0 +1,26 @@
+To identify unexpected issues or obstacles within the event log for these three projects and how they were managed, we need to analyze the tasks with longer-than-average durations and any repetitive or unusual patterns.
+
+### Identified Issues and Management:
+
+1. **US37581 Project:**
+   - **Montar DSOL para apresentar na Plenária(Atendendo checklist):** Took 10 days (11.09.2024 - 24.09.2024). This duration seems significantly long, suggesting it needed substantial input or had complexities non-standard for this task.
+   - **Certificação da Implantação:** Occurred twice, with each instance lasting 8 days (16.10.2024 - 25.10.2024 and 28.10.2024 - 06.11.2024). The recurrence and extended length could imply repeated testing or rectification efforts to ensure proper implementation standards.
+   - **Acompanhar as atividades pós-implantação de infraestrutura:** Lasted 22 days (28.10.2024 - 26.11.2024), potentially indicating prolonged troubleshooting or stabilization processes.
+
+2. **US285851 Project:**
+   - **Confirmar/garantir fonte orçamentária (FOI doador):** Lasted 55 days (27.03.2024 - 17.06.2024), which is atypical and likely reflects significant delays or challenges in securing funding or budget approvals.
+   - **Certificação da Implantação:** Also occurred asynchronously and lasted 8 days (07.08.2024 - 16.08.2024 and 01.10.2024 - 10.10.2024). This might signify rigorous quality assurance or validation processes beyond the usual scope.
+   - **Acompanhar as atividades pós-implantação de infraestrutura:** Took 30 days (19.08.2024 - 27.09.2024), indicating extended oversight or adjustment periods for post-implementation issues.
+
+3. **US293949 Project:**
+   - **Liberar regras de firewall:** Spanned 6 days (25.06.2024 - 02.07.2024), pointing to potential coordination issues or technical challenges involving multiple teams (Security and Network Support).
+   - **Certificação da Implantação:** Again appeared with extended phases totaling 8 days (08.07.2024 - 17.07.2024 and 04.09.2024 - 13.09.2024). The recurrent duration could imply a need for thorough inspection or adjustments.
+   - **Acompanhar as atividades pós-implantação de infraestrutura:** Was lengthy at 30 days (23.07.2024 - 02.09.2024), similar to the other projects, denoting possibly complex integration or operationalization phases.
+
+### Management Approaches:
+- The **extended durations** for tasks like "Montar DSOL," "Certificação da Implantação," and post-implementation activities highlight proactive quality control measures and in-depth troubleshooting to address intricate system or infrastructural challenges.
+- The **reoccurrence of certification tasks** likely points to iterative validation processes to ensure compliance with project requirements and operational standards.
+- **Project managers maintained engagement** in the form of meetings and regular validation steps, which might stem from a need for constant communication and coordination due to the obstacles faced.
+- **Resource management activities** were carefully timetabled, although lengthy processes indicate potential resource availability or allocation issues that needed active management intervention.
+
+Overall, these obstacles were managed with extended planning and execution timelines, involved consultation with respective experts (e.g., Arquiteto de Soluções), and substantial roles played by Project Managers and technical specialists. These strategies suggest a cautious but structured approach to resolving complexities encountered in the projects.

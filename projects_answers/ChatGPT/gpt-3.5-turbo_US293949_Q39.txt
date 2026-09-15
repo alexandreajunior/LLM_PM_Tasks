@@ -1,0 +1,17 @@
+Yes, there were delays in the project. Some of the causes of these delays include:
+
+1. **Task 19 (Cadastrar Servidor no GA - Windows):** This task took 3 days longer than planned, from 01.07.2024 to 03.07.2024. The resource involved in this task was SCA_ACESSO.
+   
+2. **Task 20 (Liberar regras de firewall):** This task took 4 extra days to complete, from 25.06.2024 to 02.07.2024. The resources involved were "Segurança da Informação" (50%), "Suporte Rede Corporativa" (50%), and LFI. 
+
+3. **Task 27 (Criação de balancemanto no F5):** This task took 2 additional days, from 01.07.2024 to 03.07.2024. The resource involved was Suporte Rede Corporativa.
+   
+4. **Task 33 (Cadastrar Servidor no GA - Windows):** This task took 2 extra days, from 03.07.2024 to 05.07.2024. The resource involved was SCA_ACESSO.
+   
+5. **Task 58 (Acompanhar as atividades pós implantação de infraestrutura):** This task took 28 more days to complete, from 23.07.2024 to 02.09.2024. The resource involved was Project Manager.
+  
+6. **Task 61 (Certificação da Implantação):** This task took 3 extra days, from 04.09.2024 to 13.09.2024. The resource involved was Segurança da Informação.
+   
+7. **Task 69 (Enviar email para o solicitante):** This task took 1 extra day, from 19.09.2024 to 20.09.2024. The resource involved was Project Manager. 
+
+These delays could have been caused by a variety of factors such as resource availability, dependencies on other tasks, complexity of the task, or unforeseen issues that arose during the project execution. It is important to analyze these delays to improve future project planning and execution.

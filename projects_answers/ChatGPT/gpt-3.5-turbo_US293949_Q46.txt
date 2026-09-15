@@ -1,0 +1,11 @@
+Based on the event log provided, it is clear that there were several instances where the project scope management could have been improved. Some key lessons learned regarding project scope management are:
+
+1. **Clear Scope Definition:** The project started with activities related to planning, resource allocation, and scheduling. However, as the project progressed, new tasks like creating virtual machines, installing operating systems, and implementing databases were added. This indicates a lack of clear scope definition at the beginning of the project.
+
+2. **Scope Creep:** There were multiple instances where new tasks were added to the project without proper approval or consideration of their impact on the project timeline. For example, tasks like "Cadastro de servidores no DNS" and "Instalação de cliente" were added, potentially causing delays in the project.
+
+3. **Inadequate Change Management:** The addition of tasks like "Atualização de patches" and "Implementação de Monitoração" towards the end of the project suggests poor change management processes. These changes could have been better managed through proper change control procedures to ensure they were aligned with the project scope.
+
+4. **Resource Allocation:** The allocation of resources was not always optimal, with some tasks assigned to resources with conflicting responsibilities (e.g., Suporte Windows and Suporte Rede Corporativa sharing tasks). Proper resource allocation is essential for effective project scope management.
+
+In conclusion, the project experienced challenges related to scope definition, scope creep, change management, and resource allocation. These lessons highlight the importance of clear scope definition, effective change control processes, and careful resource allocation in project scope management.

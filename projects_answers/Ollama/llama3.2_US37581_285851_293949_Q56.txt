@@ -1,0 +1,17 @@
+After analyzing the three project plans, I identified some potential lessons learned regarding project scope management:
+
+1. **Overly ambitious timelines**: Many tasks with short deadlines (e.g., 4-8 days) seem challenging given the overall complexity of the projects and the available resources. This might indicate that some tasks were overestimated in terms of scope or required more time than anticipated, highlighting the importance of realistic task scheduling.
+2. **Insufficient resource allocation**: Tasks requiring significant resources, such as "Implementação de Backup" (Day 4-11) and "Certificação da Implantação" (Days 8-17), seem to be understaffed or under-resourced compared to other tasks. This could suggest that the project scope was underestimated in terms of resource requirements.
+3. **Rushed completion of critical tasks**: Tasks like "Implementar classe de backup" (Day 4) and "Atualizar SPS com o último DSOL do sistema e realizar o check in" (Day 7) were completed relatively quickly, which might indicate that they were not thoroughly tested or validated before being considered complete.
+4. **Inadequate planning for dependencies**: Some tasks seem to have been executed without proper consideration of their dependencies on other tasks. For example, "Montar relatório de entrega" (Days 18-19) and "Enviar email para o solicitante" (Day 20) appear to be dependent on the completion of earlier tasks, but their placement in the project schedule might not have been optimal.
+5. **Lack of clear scope definition**: The project plans seem to lack a clear and concise description of the project's overall objectives and scope. This might lead to confusion or misalignment between stakeholders, team members, or team leaders.
+
+These observations suggest that the project teams may have learned the following lessons regarding project scope management:
+
+* Be more realistic about task timelines and resource requirements.
+* Ensure sufficient resources are allocated for critical tasks and dependencies.
+* Thoroughly test and validate critical components before considering them complete.
+* Plan dependencies carefully to avoid delays or bottlenecks.
+* Establish a clear and concise project scope definition to ensure everyone is working towards the same objectives.
+
+These lessons can help improve project planning, execution, and overall success in future projects.

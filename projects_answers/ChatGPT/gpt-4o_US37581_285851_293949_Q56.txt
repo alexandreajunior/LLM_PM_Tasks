@@ -1,0 +1,24 @@
+When analyzing the event logs for the three projects, several lessons can be gleaned regarding project scope management:
+
+1. **Clear Task Definition:**
+   - It is crucial to have clearly defined tasks with specific durations and responsibilities. This can help facilitate better planning and resource allocation, which was evident in the projects as each task had designated resource names and durations.
+
+2. **Variation in Task Duration:**
+   - There is a notable variation in the duration of similar tasks across different projects. For instance, tasks such as "Confirmar/garantir fonte orçamentária" had significant discrepancies in time across projects, suggesting the need for more standardized time estimates based on historical data. To manage scope effectively, consistent benchmarks and standards should be established.
+
+3. **Identifying Long Duration Tasks:**
+   - Tasks that take significantly longer than others, such as "Confirmar/garantir fonte orçamentária," which took 55 days in one project, need to be analyzed for inefficiencies. By identifying such bottlenecks, measures can be taken to streamline processes or re-allocate resources to ensure timely task completion.
+
+4. **Resource Allocation:**
+   - Effective scope management requires well-planned resource allocation to prevent delays. For instance, "Liberar regras de firewall" tasks are spread across multiple resources (e.g., "Segurança da Informação," "Suporte Rede Corporativa," and "LFI"), indicating collaborative work that must be coordinated efficiently.
+
+5. **Managing Dependencies and Sequencing:**
+   - Ensuring tasks are logically sequenced and dependencies are managed is key to scope management. Tasks like "Cadastro de servidores no DNS" and "Atualizar o CMDB" are executed towards the end, indicating a potential dependency on earlier tasks.
+
+6. **Post-Implementation Follow-Up:**
+   - Attention to post-implementation activities is evident, with tasks such as "Acompanhar as atividades pós implantação de infraestrutura" spanning several days. This underscores the importance of including post-project monitoring in the project scope to ensure successful deployment and stakeholder satisfaction.
+
+7. **Thorough Documentation:**
+   - The repeated updating of systems like CMDB suggests the importance of thorough documentation as part of scope management. Consistent documentation practices help avoid scope creep by maintaining accurate records of project changes and decisions.
+
+By understanding these lessons, future projects can improve scope management to ensure projects are delivered within their original timelines and resources.

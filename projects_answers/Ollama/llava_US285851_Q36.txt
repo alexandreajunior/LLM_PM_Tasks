@@ -1,0 +1,8 @@
+ Based on the provided project plan, it appears that there was a focus on managing project scope effectively. The project plan included several specifics related to scope management, such as:
+
+* Certificação da Implantação (8 days) - This suggests that the project team made sure to verify that all components of the project were completed according to the agreed-upon scope.
+* Validar entrega final (0 days) - This step indicates that there was a final review and validation of the project deliverables to ensure they met the project's objectives and requirements.
+* Atualizar o relatório de entrega (2 days) - This activity demonstrates the importance of keeping stakeholders informed about the project status and any changes in scope.
+* Acompanhar as atividades pós implantação de infraestrutura (30 days) - This step shows that the project team was attentive to any issues or risks that might arise after the project was completed and implemented.
+
+These activities reflect a proactive approach to managing project scope, which can help prevent costly changes in scope and ensure that the project delivers value to the organization. 

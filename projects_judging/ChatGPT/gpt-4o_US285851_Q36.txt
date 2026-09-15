@@ -1,0 +1,27 @@
+The given event log outlines the sequential execution of tasks involved in an IT infrastructure implementation project, notably the discovery of network devices. Upon analyzing this log, several insights regarding project scope management can be identified:
+
+1. **Scope Planning and Understanding:**
+   - The project log indicates a comprehensive range of tasks, from initial planning and resource allocation to final updates and check-ins. This breadth suggests that a well-defined scope was articulated early on, encompassing significant detail.
+   - A lesson here is the importance of detailed scope planning to preemptively map out all necessary activities, ensuring nothing essential is missed.
+
+2. **Ensuring Budget Approval:**
+   - One task, "Confirmar/garantir fonte orçamentária (FOI doador)," which spans 55 days, underscores the need for careful budgeting and financial approvals within the project's scope. Financial alignment is crucial before further project execution.
+   - The extended duration highlights how delays in securing financial approval can impact the project timeline, signaling the importance of incorporating necessary slack time or parallel tasks in the project scope to mitigate such risks.
+
+3. **Resource Allocation and Coordination:**
+   - Multiple tasks involved explicit allocations, such as meetings, handovers, and confirmations with key personnel like the Project Manager and P&I Manager. The repetition of "Solicitar reserva/alocação de todos os recursos" indicates possible rework.
+   - These tasks emphasize the necessity of clear resource allocation within the project scope, ensuring that all stakeholders are available and aligned. Proper resource management is crucial to prevent bottlenecks.
+
+4. **Milestones and Deliverables:**
+   - The log features several milestones, such as presenting to plenary sessions, validations, and blackouts, indicating checkpoints and deliverables built into the scope.
+   - This exemplifies the value of setting milestones to track progress, adjust course when necessary, and ensure that incremental goals contribute to the overall project success.
+
+5. **Change Management:**
+   - Tasks like "Atualizar o CMDB e gerar evidência" and updates to reports and checklists indicate ongoing documentation and change management activities.
+   - The inclusion of these tasks illustrates the need for continuous documentation to reflect any scope adjustments and ensure all changes are recorded and clearly communicated.
+
+6. **Communication:**
+   - Frequent points of interaction with clients and stakeholders, such as meetings and approval requests, signify the integral role of communication within scope management.
+   - Regular communication with stakeholders minimizes misunderstandings regarding project scope and ensures that all parties are aligned with expectations.
+
+In summary, efficient scope management in this project involved detailed planning, proper budgeting, resource allocation, milestone setting, effective change management, and regular communication. Such lessons can help in managing future project scopes more effectively, mitigating risks of delays and ensuring project objectives are met satisfactorily.

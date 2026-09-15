@@ -1,0 +1,17 @@
+Analyzing the project event log for the IT infrastructure implementation to support Azure Boards, several insights can be drawn regarding project scope management:
+
+1. **Clear Task Definition and Sequencing**: The project appears to have a well-defined set of tasks listed chronologically, showing careful planning. This is crucial in scope management to ensure that all necessary steps are included and tasks are neither overlooked nor duplicated.
+
+2. **Resource Allocation and Management**: The log highlights which resources (people or teams) are responsible for each task, suggesting that resource allocation was a key part of scope management. Notably, some tasks required specific teams, like "Suporte Windows" or "Segurança da Informação," indicating a dependency on both specialized skills and timely resource availability.
+
+3. **Focus on Milestones and Phase Completion**: The event log shows specific milestones, such as "Handover para o RI," "Cadastro de servidores no DNS," and "Atualizar o CMDB," indicating checkpoints in the project where scope evaluation can be revisited.
+
+4. **Duration Variability and Dependencies**: Several tasks, such as "Liberar regras de firewall" and "Certificação da Implantação," have extended durations. Longer durations can indicate complex tasks or potential delays due to scope creep—where tasks become more complicated than initially anticipated, affecting the schedule.
+
+5. **Handling Bottlenecks in the Process**: Tasks associated with firewall rules, SQL Server installation, and backup implementation had longer durations. This could reflect unexpected challenges within scope—requiring managers to possibly adjust other areas of the project to maintain alignment with project timelines.
+
+6. **Post-Implementation Follow-Up**: The extensive task of "Acompanhar as atividades pós implementação de infraestrutura," which spans 30 days, emphasizes ongoing project scope management even after the primary implementation is completed, ensuring adjustments can be made for monitoring and verification of infrastructure stability.
+
+7. **Change and Risk Management**: The need for a task like "Atualização de patches" highlights the importance of accommodating changes and updates in the scope, addressing new requirements or risk events that emerge during the project's execution.
+
+In summary, effective scope management requires detailed task definition, careful planning of sequences and dependencies, clear assignment of resources, regular milestone reviews, responsive adjustment to bottlenecks, and ensuring that post-implementation processes are adequately supported. Adjustments and flexibility are needed when tasks extend beyond initial duration estimates, and robust communication mechanisms, like final emails to stakeholders, help in maintaining transparency and stakeholder engagement throughout the project lifecycle.

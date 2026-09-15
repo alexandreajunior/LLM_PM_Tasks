@@ -1,0 +1,20 @@
+Based on the event log, it appears that there were some challenges in managing the allocated resources, particularly in terms of time and human resources.
+
+There are several tasks with durations that exceed 1 day, such as:
+
+* US293949;19;Cadastrar Servidor no GA - Windows;3 days;01.07.2024 09:00;03.07.2024 18:00;SCA_ACESSO
+* US293949;32;Cadastro de servidores no DNS (.intranet, .interno, .backup e etc);1 day;28.06.2024 09:00;28.06.2024 18:00;Suporte Windows
+* US293949;33;Cadastrar Servidor no GA - Windows;3 days;03.07.2024 09:00;05.07.2024 18:00;SCA_ACESSO
+* US293949;34;Liberar regras de firewall;5 days;25.06.2024 09:00;01.07.2024 18:00;"Segurança da Informação[50%];Suporte Rede Corporativa[50%];LFI"
+* US293949;41;Instalação de Instância de  SQL Server (Stand Alone);2 days;01.07.2024 09:00;02.07.2024 18:00;Suporte BD SQL SERVER
+* US293949;49;Implementação de Backup;4 days;08.07.2024 09:00;11.07.2024 18:00;Suporte Backup
+* US293949;51;Certificação da Implantação;8 days;08.07.2024 09:00;17.07.2024 18:00;Segurança da Informação
+* US293949;53;Implantar classe de backup;4 days;08.07.2024 09:00;11.07.2024 18:00;Suporte Backup
+
+These tasks are taking significantly longer than the average task duration, which is 1 day.
+
+In terms of human resources, it appears that there was some over-reliance on a single team member (Project Manager), as indicated by the repeated mentions of "Responsável Implantação" in the event log. This may indicate a lack of resource allocation or manpower management within the project.
+
+Financial resources are not explicitly mentioned in the event log, but it is possible that there were some unexpected expenses or cost overruns that went unnoticed during the project execution.
+
+Overall, while the project seems to have been completed on time, there are concerns about resource allocation and management, particularly in terms of human resources.

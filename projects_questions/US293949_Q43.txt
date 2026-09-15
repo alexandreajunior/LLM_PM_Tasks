@@ -1,0 +1,60 @@
+**Prompt:**
+
+You are presented with an event log of a finished project about the implementation of an IT  infrastructure for an application gateway to support Azure Boards. The event log captures a single project execution.
+
+Below, you will find an event log in tabular format. Each row corresponds to an event: a specific activity performed on the  project at a given timestamp. The first event marks when the project started, and the last event marks the closure of the project. All timestamps are aligned to a common reference timeline. Activities that take significantly longer than average to execuyte suggest performance issues. Your task is to identify any patterns or factors that may be causing these delays.
+
+**Event Log (Tabular Format):**
+
+Project_ID;ID;Task_Name;Duration;Start_Date;Finish_Date;Resource_Names
+US293949;3;Handover Planejamento;1 day;21.06.2024 09:00;21.06.2024 18:00;Solicitante
+US293949;4;Alocar recurso/reunião P&I;1 day;24.06.2024 09:00;24.06.2024 18:00;P&I Manager
+US293949;5;Realizar reunião com o solicitante/cliente;1 day;24.06.2024 09:00;24.06.2024 18:00;Project Manager
+US293949;6;Montar Cronograma;1 day;24.06.2024 09:00;24.06.2024 18:00;Project Manager
+US293949;7;Confirmar/garantir se a aplicação está cadastrada no Portal de Arquitetura/CMDB;1 day;24.06.2024 09:00;24.06.2024 18:00;Project Manager
+US293949;9;Solicitar CF;1 day;25.06.2024 09:00;25.06.2024 18:00;Project Manager
+US293949;11;Solicitar a Reserva/alocação de IP- Específico para servidores virtuais;1 day;24.06.2024 09:00;24.06.2024 18:00;Suporte Rede Corporativa
+US293949;12;Formalização das licenças previamente autorizadas;1 day;24.06.2024 09:00;24.06.2024 18:00;Controle de Ativos
+US293949;15;Handover para o RI;1 day;25.06.2024 09:00;25.06.2024 18:00;Project Manager
+US293949;16;Abrir chamados implantação;1 day;25.06.2024 09:00;25.06.2024 18:00;Responsável Implantação
+US293949;18;Cadastro de servidores no DNS (.intranet, .interno, .backup e etc);1 day;28.06.2024 09:00;28.06.2024 18:00;Suporte Windows
+US293949;19;Cadastrar Servidor no GA - Windows;3 days;01.07.2024 09:00;03.07.2024 18:00;SCA_ACESSO
+US293949;20;Liberar regras de firewall;6 days;25.06.2024 09:00;02.07.2024 18:00;"Segurança da Informação[50%];Suporte Rede Corporativa[50%];LFI"
+US293949;23;Criação de estrutura de maquina virtual diferente de Windows - Servidor Virtual;1 day;26.06.2024 09:00;26.06.2024 18:00;Suporte Windows
+US293949;24;Instalação do s.o. Windows e criação das partições - Servidor Virtual;2 days;27.06.2024 09:00;28.06.2024 18:00;Suporte Windows
+US293949;25;Cadastro do IP de backup no media server - Windows;0 days;28.06.2024 18:00;28.06.2024 18:00;Suporte Unix
+US293949;27;Criação de balancemanto no F5;3 days;01.07.2024 09:00;03.07.2024 18:00;Suporte Rede Corporativa
+US293949;28;Atualizar o CMDB e gerar evidência (relacionamento de aplicação no servidor/banco, ambiente, status, inserir data de produção dos servidores, etc);1 day;03.07.2024 09:00;03.07.2024 18:00;Responsável Implantação
+US293949;29;Montar relatório de entrega/checklist parcial;2 days;01.07.2024 09:00;02.07.2024 18:00;Responsável Implantação
+US293949;32;Cadastro de servidores no DNS (.intranet, .interno, .backup e etc);1 day;28.06.2024 09:00;28.06.2024 18:00;Suporte Windows
+US293949;33;Cadastrar Servidor no GA - Windows;3 days;03.07.2024 09:00;05.07.2024 18:00;SCA_ACESSO
+US293949;34;Liberar regras de firewall;5 days;25.06.2024 09:00;01.07.2024 18:00;"Segurança da Informação[50%];Suporte Rede Corporativa[50%];LFI"
+US293949;37;Criação de estrutura de maquina virtual diferente de Windows - Servidor Virtual;1 day;26.06.2024 09:00;26.06.2024 18:00;Suporte Windows
+US293949;38;Instalação do s.o. Windows e criação das partições - Servidor Virtual;2 days;27.06.2024 09:00;28.06.2024 18:00;Suporte Windows
+US293949;39;Cadastro do IP de backup no media server - Windows;0 days;28.06.2024 18:00;28.06.2024 18:00;Suporte Unix
+US293949;41;Instalação de Instância de  SQL Server (Stand Alone);2 days;01.07.2024 09:00;02.07.2024 18:00;Suporte BD SQL SERVER
+US293949;42;Criação de Banco de Dados;0 days;01.07.2024 09:00;01.07.2024 09:00;Suporte BD SQL SERVER
+US293949;43;Instalação de cliente;0 days;01.07.2024 09:00;01.07.2024 09:00;Suporte BD SQL SERVER
+US293949;44;Atualizar o CMDB e gerar evidência (relacionamento de aplicação no servidor/banco, ambiente, status, inserir data de produção dos servidores, etc);1 day;03.07.2024 09:00;03.07.2024 18:00;Responsável Implantação
+US293949;45;Montar relatório de entrega/checklist parcial;2 days;03.07.2024 09:00;04.07.2024 18:00;Responsável Implantação
+US293949;49;Implementação de Backup;4 days;08.07.2024 09:00;11.07.2024 18:00;Suporte Backup
+US293949;51;Certificação da Implantação;8 days;08.07.2024 09:00;17.07.2024 18:00;Segurança da Informação
+US293949;53;Implantar classe de backup;4 days;08.07.2024 09:00;11.07.2024 18:00;Suporte Backup
+US293949;55;Montar o relatório de entrega;2 days;18.07.2024 09:00;19.07.2024 18:00;Responsável Implantação
+US293949;56;Gerar o checklist;1 day;22.07.2024 09:00;22.07.2024 18:00;Project Manager
+US293949;58;Acompanhar as atívidades pós implantação de infraestrutura;30 days;23.07.2024 09:00;02.09.2024 18:00;Project Manager
+US293949;60;Atualização de patches;1 day;03.09.2024 09:00;03.09.2024 18:00;Suporte SO
+US293949;61;Certificação da Implantação;8 days;04.09.2024 09:00;13.09.2024 18:00;Segurança da Informação
+US293949;63;Implementação de Monitoração (ativação);4 days;07.08.2024 09:00;12.08.2024 18:00;Suporte Monitoração
+US293949;64;Implementação de Blackout da Monitoração;4 days;13.08.2024 09:00;16.08.2024 18:00;Suporte Monitoração
+US293949;66;Fechar ARS Pai;1 day;16.09.2024 09:00;16.09.2024 18:00;Responsável Implantação
+US293949;67;Atualizar o SPS com o último DSOL do sistema e realizar o check in;1 day;17.09.2024 09:00;17.09.2024 18:00;Project Manager
+US293949;68;Atualizar SPS e Clarity;1 day;18.09.2024 09:00;18.09.2024 18:00;Project Manager
+US293949;69;Enviar email para o solicitante;2 days;19.09.2024 09:00;20.09.2024 18:00;Project Manager
+
+This is a project plan.
+**Your Task:**
+1. Answer the following question.
+
+What could have been done differently to improve the project’s outcome?
+

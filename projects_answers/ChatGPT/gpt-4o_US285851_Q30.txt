@@ -1,0 +1,17 @@
+To assess how well the project adhered to the original plan and objectives, we should analyze the event log for any deviations in terms of time, resources, and process consistency.
+
+1. **Timeline Consistency:**
+   - **Long Durations:** The most noticeable deviation is the significant delay in the task "Confirmar/garantir fonte orçamentária (FOI doador)." This task took 55 days, which is substantially longer than all other tasks. This suggests a major bottleneck possibly due to budget confirmation issues.
+   - **Extended Phases:** The task “Acompanhar as atividades pós implantação de infraestrutura” also took 30 days. While infrastructure monitoring is often ongoing, this duration might have exceeded the initial scope if rapid deployment was intended.
+   - **Repetitive Tasks:** Tasks such as "Cadastro de servidores no DNS (.intranet, .interno, .backup e etc)" and "Cadastrar Servidor no GA - Windows" appear multiple times with consistent durations, suggesting they were planned and executed efficiently without deviations.
+
+2. **Resource Utilization:**
+   - **Delays in Multi-Resource Tasks:** The task "Liberar regras de firewall" involved multiple resource teams as partial contributors (e.g., "Segurança da Informação[50%]; Suporte Rede Corporativa[50%]"). It took 5 days, pointing to potential coordination challenges between security and network teams.
+   - **Consistent Resource Allocation:** Other tasks like "Handover para o RI" and "Solicitar um RI" were accomplished in the expected 1-day period, signifying effective resource allocation and task execution for those activities.
+
+3. **Process Consistency:**
+   - There is evidence of well-structured processes following specific sequences, such as meetings, approvals, and report generation activities, implying adherence to structured plan phases.
+   - **Repeated Task Formats:** Tasks like "Cadastro de IP de backup" and checklist generation processes (~1-2 days) suggest a consistent and possibly templated approach, indicating adherence to planned operational procedures.
+
+**Conclusion:**
+The project largely adhered to its structured process plans, especially in recurring or short-duration tasks. However, the delay in confirming budgetary resources and extended post-implementation monitoring indicate deviations from the expected timeline, suggesting initial planning might not have fully mitigated risk factors or bottleneck scenarios. These observations point to the need for better budgeting procedures and risk assessments for future plans.

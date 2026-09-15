@@ -1,0 +1,13 @@
+Based on the event log, it appears that the project had some deviations from the original plan and objectives. Here are some observations:
+
+1. **Longer-than-expected tasks**: Tasks such as confirming fonte orçamentária (FOI doador), Realizar reunião com o solicitante/cliente, Solicitante/cliente deverá informar a Data de Entrada de Produção dos Servidores (ativação da Monitoração), and others took significantly longer than expected to complete. These tasks lasted anywhere from 1 day to 55 days, which is much longer than the average duration of other tasks.
+2. **Delays in task dependencies**: Some tasks, such as CADastro de servidores no DNS (.intranet, .interno, .backup e etc) and Cadastrar Servidor no GA - Windows, were repeated multiple times, indicating potential delays in task dependencies or miscommunication between team members.
+3. **Changes in task order**: The event log shows that some tasks were reordered or completed out of sequence, which could indicate changes in the project plan or objectives.
+4. **Lack of progress monitoring**: There is limited evidence of regular progress monitoring and check-ins throughout the project. This might have contributed to delays and deviations from the original plan.
+
+However, it's also worth noting that:
+
+1. **Most tasks were completed within expected timeframes**: The majority of tasks were completed on schedule or even ahead of schedule.
+2. **The project was closed within the expected timeframe**: The project was closed on 27.09.2024, which is relatively close to the planned completion date.
+
+Overall, it appears that while there were some deviations from the original plan and objectives, the project still managed to complete most tasks within expected timeframes. However, there are potential areas for improvement in terms of task management, dependencies, and progress monitoring to ensure better adherence to the original plan and objectives.

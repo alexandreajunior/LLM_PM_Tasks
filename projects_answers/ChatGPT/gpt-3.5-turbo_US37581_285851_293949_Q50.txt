@@ -1,0 +1,9 @@
+Based on the event logs provided for the three projects regarding the implementation of IT infrastructure for different applications, it is evident that there were deviations from the original plan and objectives.
+
+In the first project (Project_ID: US37581), there were several tasks that took longer than initially planned, such as "Montar DSOL para apresentar na Plenária" which took 10 days instead of the planned 10 days. Additionally, tasks like "Atualizar o CMDB e gerar evidência" and "Certificação da Implantação" also took longer than anticipated. These delays indicate that the project did not fully adhere to the original plan and objectives.
+
+Similarly, in the second project (Project_ID: US285851), several tasks also took longer to complete, such as "Confirmar/garantir fonte orçamentária" which took 55 days instead of the planned 1 day. Tasks like "Montar relatório de entrega/checklist parcial" and "Certificação da Implantação" also experienced delays. These deviations suggest that the project strayed from its original plan and objectives.
+
+Lastly, in the third project (Project_ID: US293949), there were also instances of tasks taking longer than anticipated, such as "Implementação de Monitoração (ativação)" and "Certificação da Implantação." These delays indicate that the project faced challenges in adhering to the original plan and objectives.
+
+Overall, it can be concluded that all three projects experienced deviations from the original plan and objectives, suggesting that there were challenges and obstacles that affected the project timelines and outcomes.

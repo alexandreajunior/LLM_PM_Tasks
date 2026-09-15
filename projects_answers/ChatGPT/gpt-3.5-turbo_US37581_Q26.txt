@@ -1,0 +1,5 @@
+One key lesson learned regarding project scope management from this event log is the importance of properly defining and communicating the scope of tasks and activities required for project completion. By clearly outlining each task, its duration, start and finish dates, and resource responsible, the project team can better understand the overall project timeline and dependencies. 
+
+Additionally, the event log highlights the significance of regularly monitoring and adjusting the project scope as needed throughout the project execution to address any delays or performance issues promptly. This adaptive approach allows the team to stay on track and mitigate potential risks that may arise during implementation. 
+
+Overall, the detailed event log serves as a valuable tool for evaluating project scope management practices, identifying areas for improvement, and implementing strategies to optimize project performance in future endeavors.

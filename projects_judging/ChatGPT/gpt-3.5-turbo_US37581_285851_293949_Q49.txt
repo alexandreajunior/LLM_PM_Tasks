@@ -1,0 +1,9 @@
+In the project related to the implementation of IT infrastructure for an application to manage performance (Project_ID: US37581), some delays were observed. 
+
+One significant delay was in Task 9: "Montar DSOL para apresentar na Plenária (Atendendo checklist)." This task took 10 days to complete, from 11.09.2024 to 24.09.2024, which is longer than the average duration of tasks in this project. The delays in this task could be due to extensive checklist requirements or dependencies on other tasks.
+
+Another delay was in Task 32: "Instalação do s.o. Linux, criação dos FileSystem e cadastro no MediaServer - Servidor Virtual." This task took 4 days to complete, from 07.10.2024 to 10.10.2024. The delay in this task could be attributed to difficulties in the installation process or technical issues encountered during configuration.
+
+Additionally, in the project related to the implementation of the IT infrastructure for an application to discover network devices (Project_ID: US285851), a delay was observed in Task 5: "Confirmar/garantir fonte orçamentária (FOI doador)." This task took 55 days to complete, from 27.03.2024 to 17.06.2024. The significant delay in this task could be due to issues with budget approval, donor coordination, or financial constraints.
+
+Overall, these delays could be caused by various factors such as complex requirements, dependencies on external stakeholders, technical challenges, and budget constraints. Identifying these factors and addressing them proactively can help prevent similar delays in future projects.

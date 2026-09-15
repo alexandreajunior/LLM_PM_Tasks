@@ -1,0 +1,5 @@
+The event log does not explicitly mention any unexpected issues or obstacles that arose during the project implementation. However, based on the durations of some tasks that are longer than average, it can be inferred that there were some performance issues or delays encountered.
+
+For example, Task 5 "Confirmar/garantir fonte orçamentária" took 55 days to complete, which is significantly longer than many other tasks in the project. This may indicate difficulties in securing budgetary approvals or funding for the project. Similarly, Task 10 "Montar DSOL para apresentar na Plenária" took 10 days to complete, which could suggest challenges in preparing the necessary documentation or presentations.
+
+To manage these potential obstacles, the project team likely had to engage in additional communication with stakeholders, escalate issues to higher management for resolution, and adapt the project plan to accommodate delays. It is essential in such situations to maintain open lines of communication, allocate resources effectively, and continuously monitor and adjust the project timeline to ensure timely completion.

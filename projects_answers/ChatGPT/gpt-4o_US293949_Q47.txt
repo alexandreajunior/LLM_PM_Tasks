@@ -1,0 +1,28 @@
+Based on the event log of this project, here are several pieces of advice for future project teams aiming to optimize the implementation of IT infrastructure:
+
+1. **Streamline Task Duration**:
+   - **Firewall Rule Liberation**: Notably, the task 'Liberar regras de firewall' (release firewall rules) spans 5 to 6 days in different instances. This is significantly longer than most other tasks and may indicate a bottleneck. Analyze why this task takes so long and consider streamlining the process or increasing resource allocation.
+   - **Certificação da Implantação (Certification of Implementation)**: Both instances of this task take 8 days, which is longer than average. Ensure that prerequisites are fully met before starting this task and that clear criteria for certification are established and communicated to prevent delays.
+
+2. **Optimize Resource Allocation**:
+   - Ensure that critical tasks with longer durations are adequately staffed. For example, 'Segurança da Informação' is a key stakeholder in both certification and firewall tasks. Reallocating more personnel or adjusting workloads may help reduce delays.
+
+3. **Parallel Execution**:
+   - Identify tasks that can be executed in parallel and ensure they are not unnecessarily sequenced, as seen with overlap in 'Instalação do s.o. Windows' and 'Cadastro de servidores no DNS'. This will help reduce overall project timelines.
+
+4. **Task Dependencies and Sequencing**:
+   - Carefully review dependencies between tasks to prevent any activity from blocking the subsequent ones. For instance, certain tasks require completion of others first, such as the IP and DNS registration before server implementation activities.
+   
+5. **Resource Management**:
+   - Tasks often assigned to the same resource or department (e.g., 'Suporte Rede Corporativa' and 'Suporte Windows') might lead to resource contention. Consider identifying backup resources or cross-training team members to maintain progress during peak resource demand periods.
+
+6. **Documentation and Handover**:
+   - 'Montar relatório de entrega/checklist' and 'Atualizar o CMDB' suggest the importance of thorough documentation. Future teams should streamline documentation processes or automate parts of these tasks to reduce time spent on them.
+
+7. **Regular Reviews and Updates**:
+   - The task 'Acompanhar as atívidades pós implantação' (post-implementation activities) takes 30 days, which seems intended for quality assurance. Regular progress reviews within this period may identify issues earlier and reduce overall timeline.
+
+8. **Communication and Coordination**:
+   - The end tasks dealing with communication ('Enviar email para o solicitante') suggest the output value of ensuring stakeholders are updated. Use collaborative platforms to ensure all roles are aligned, especially once major milestones are complete.
+
+By focusing on these areas, future project teams can enhance efficiency, minimize potential delays, and improve overall project delivery timelines.

@@ -1,0 +1,11 @@
+Based on the event log, there are several instances where tasks took longer than expected to complete or required more time than anticipated. Some specific examples include:
+
+* Task 20 (Liberar regras de firewall): This task took 6 days to complete, which is significantly longer than the 1 day expected duration.
+* Task 39 (Cadastro do IP de backup no media server - Windows): Although listed as a 0-day task, this task did not finish until 28.06.2024, indicating it might have required some additional time beyond its initial expectation.
+
+These tasks suggest that there may be potential issues with project scope management, such as:
+
+1. Unrealistic expectations: Tasks were assigned durations that seemed too short for the actual effort required.
+2. Unclear or incomplete task breakdowns: Tasks like 39 (Cadastro do IP de backup no media server - Windows) did not finish immediately, suggesting a need for more detailed planning and execution.
+
+However, it's worth noting that there are no explicit indications of project scope creep (increasing the scope without adjusting timelines) in this event log. The tasks seem to have been completed as planned or with some minor delays due to unforeseen circumstances rather than a deliberate change in scope.

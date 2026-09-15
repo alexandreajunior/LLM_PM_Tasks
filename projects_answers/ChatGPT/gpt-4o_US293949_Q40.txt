@@ -1,0 +1,25 @@
+To assess how well the project adhered to the original plan and objectives, we need to analyze the event log data and look for patterns that might indicate deviations or delays. Here's a summary based on the provided event log:
+
+1. **Project Timeline and Duration:** 
+   - The project began on 21.06.2024 and concluded on 20.09.2024, making the total duration approximately 3 months.
+   - The event log shows extended durations for certain tasks, which could suggest delays or deviations from the original plan.
+
+2. **Task Delays and Extended Durations:**
+   - **"Liberar regras de firewall" (Task ID 20 and 34):** This task took 6 days and 5 days, respectively, for what seems to be the same task repeated. The extended duration compared to other tasks implies potential issues with firewall configurations or dependencies on other resources.
+   - **"Instalação de Instância de SQL Server" (Task ID 41) and "Montar relatório de entrega" (Task ID 55):** Both took longer than typical activities (2 days), suggesting complexity or resourcing issues.
+   - **"Certificação da Implantação" (Task ID 51 and 61):** Repeated tasks that both took 8 days each, suggesting perhaps a thorough or complex certification process.
+   - **"Acompanhar atividades pós implantação de infraestrutura" (Task ID 58):** This task lasted 30 days, representing a significant period of post-implementation activity monitoring, suggesting the project required substantial oversight or encountered post-deployment issues.
+
+3. **Resource Utilization:**
+   - **Segurança da Informação, Suporte Rede Corporativa, Suporte Windows, and Project Manager** were heavily involved, which may indicate the core areas of focus or potential bottlenecks.
+   - Notably, tasks involving multi-team collaboration (e.g., firewall rules) took longer, pointing to possible coordination challenges.
+
+4. **Adherence to Plan Objectives:**
+   - If the original plan had provisions for these long durations, then the project may have adhered well to those expectations, but if the plan assumed shorter times, there was a deviation.
+   - The completion of tasks despite delays, especially in a logical sequence, indicates that the project objectives were eventually met, though perhaps at the cost of longer execution times.
+
+5. **Overall Adherence:**
+   - The project seems to have faced delays in certain key tasks related to security and IT infrastructure setup. Despite this, the sequential execution of tasks and eventual project completion suggest adherence to core objectives, albeit potentially beyond initial time estimates.
+   - The presence of repeated tasks and corrective actions indicates a learning or adaptive process during execution.
+
+In conclusion, while the project met its objectives by following through with planned activities and completion, the extended duration of select tasks and significant post-implementation monitoring suggest that there were deviations in the timeline, possibly arising from unforeseen complexities or coordination challenges. Further analysis of the original project plan, including expected durations and objectives, would provide more precise insights into adherence levels.

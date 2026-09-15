@@ -1,0 +1,23 @@
+To determine if all project milestones were achieved as planned, we need to look for key indicators of planned versus actual task durations, significant extensions or delays in task completion, and completion of all intended tasks and activities.
+
+Based on the event log:
+
+1. **Task Durations**: Every task has its completion duration mentioned, and comparing the durations with usual expectations may indicate if there were any significant delays. 
+
+2. **Long Duration Tasks**: Some tasks in the log have notably long durations. Here are a few examples:
+   - "Montar DSOL para apresentar na Plenária" took 10 days.
+   - "Liberar regras de firewall" took 5 days.
+   - "Certificação da Implantação" took 8 days for the first occurrence and 8 days for the other occurrence. 
+   - "Acompanhar as atividades pós-implantação de infraestrutura" took 22 days.
+
+3. **Delays and Gaps**: Examination of the task start and finish dates shows:
+   - The project started on 5th September 2024 and some tasks continued till 28th November 2024, showing a span of almost three months.
+   - There's a gap between 31st August 2024 ("Gerar o checklist") and 27th November 2024 ("Atualização de patches") which was a significant span without any documented activities.
+
+4. **Completion of Tasks**: All tasks seem to be finished by the end of the log since there is a task "Enviar email para o solicitante" on 28th November 2024, which generally indicates closure communications.
+
+Considering the above points:
+- There is no explicit mention of missing or unachieved milestones in the log.
+- The project appears to have gone through its intended tasks and reached a close with an email to the solicitant.
+
+Thus, despite noticing some tasks taking longer than a typical single-day duration, no significant documented milestone seems to be unachieved by the end of this event log. However, delays in some tasks suggest that the timeline might have deviated from initial plans or anticipated durations.

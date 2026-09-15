@@ -1,0 +1,7 @@
+One lesson learned regarding project scope management from this event log is the importance of clearly defining and communicating project tasks and timelines. Throughout the project, there were delays in multiple tasks that caused the overall project duration to extend beyond the initial estimates. These delays could have been minimized by having a more detailed and realistic project scope defined at the beginning, with clear milestones and dependencies outlined.
+
+Additionally, the need for effective communication and coordination among project resources is highlighted by the delays in handovers between different team members. Ensuring that all team members are aware of their responsibilities and timelines can help in avoiding delays and ensuring smoother project execution.
+
+Furthermore, the importance of continuous monitoring and control of the project scope is evident from the delays in certain tasks that took significantly longer than expected. Regularly tracking progress against the project plan and making necessary adjustments can help in keeping the project on track and avoiding scope creep.
+
+Overall, this event log demonstrates the significance of robust project scope management practices in ensuring successful project delivery within the defined timelines.

@@ -1,0 +1,22 @@
+The event log provides a detailed sequence of tasks involved in the implementation of an IT infrastructure for an application gateway to support Azure Boards. Here's an analysis regarding potential unexpected issues or obstacles and how they were managed:
+
+1. **Delayed Tasks:**
+   - The task "Liberar regras de firewall" (Task ID: 20, 34) took significantly longer (6 and 5 days, respectively) than other tasks which generally took 1 or 2 days. This suggests there were possible delays or complexities in dealing with firewall configurations, which might have involved coordination between multiple teams, as indicated by the involvement of resources from both Information Security and Corporate Network Support.
+
+2. **Task Overlaps and Multiple Occurrences:**
+   - The task "Cadastrar Servidor no GA - Windows" appeared twice (Task ID: 19, 33), each taking 3 days. Similarly, "Criação de estrutura de maquina virtual diferente de Windows - Servidor Virtual" and other tasks also occurred twice. These multiple occurrences, usually around the same timeframes, could indicate a need for redundancy or adjustments, possibly due to initial configurations not meeting the necessary standards or changing requirements.
+
+3. **Extended Duration for Specific Phases:**
+   - The "Certificação da Implantação" task (Task ID: 51, 61) took a notably longer duration (8 days each time it appeared). This extended duration may have been necessary for thorough testing and validation processes, crucial for ensuring the infrastructure's readiness and alignment with security standards.
+
+4. **A Prolonged Monitoring Phase:**
+   - The task "Acompanhar as atividades pós implantação de infraestrutura" (Task ID: 58) lasted for 30 days, indicating a prolonged monitoring phase post-implementation. This could imply a requirement for continuous observation and maintenance to ensure stability and performance, perhaps due to initial issues or to prevent potential problems.
+
+**Management of Issues:**
+- **Allocation of Specialist Resources:** The involvement of specialist resources such as "Segurança da Informação" (Information Security) and "Suporte Rede Corporativa" (Corporate Network Support) suggests that complexities, especially around network and security, were managed by involving personnel with the relevant expertise.
+  
+- **Concurrent Task Handling:** The occurrence of several tasks on the same days and overlapping timelines suggests that despite delays, the project maintained momentum by handling tasks concurrently where possible.
+
+- **Comprehensive Testing and Monitoring:** Through tasks involving thorough certification and monitoring, the project ensured issues were identified and rectified in managed phases, providing a structured approach to overcoming unforeseen barriers.
+
+In conclusion, while there were some tasks with extended durations, the project's structure, involving task redundancy, expert resources, and comprehensive monitoring, suggests that potential issues were proactively identified and managed through organized and strategic measures.

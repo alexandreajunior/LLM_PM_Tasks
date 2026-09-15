@@ -1,0 +1,18 @@
+To analyze delays in the project, let's break down the event logs for each of the three projects and identify tasks with durations that significantly exceed typical task lengths. We'll examine each Project ID separately to identify any patterns or issues.
+
+### Project US37581
+1. **Task with Longer Duration:**
+   - **Montar DSOL para apresentar na Plenária (Atendendo checklist)** took 10 days (11.09.2024 - 24.09.2024).
+   - **Liberar regras de firewall** took 5 days (30.09.2024 - 04.10.2024).
+   - **Certificação da Implantação** took 8 days (16.10.2024 - 25.10.2024).
+   - **Acompanhar as atividades pós implantação de infraestrutura** took 22 days (28.10.2024 - 26.11.2024).
+
+2. **Delays & Causes:**
+   - The preparation and presentation process ("Montar DSOL para apresentar na Plenária") is lengthy, possibly due to complex technical or compliance requirements.
+   - The "Liberar regras de firewall" activity may indicate dependencies or security evaluations that took longer than anticipated.
+   - The extended "Certificação da Implantação" suggests thorough or complex security assessments were necessary before sign-off.
+   - Long "Acompanhar as atividades pós implantação de infraestrutura" period could indicate close monitoring or final adjustments post-implementation, reflecting possible issues arising post-deployment.
+
+### Project US285851
+1. **Task with Longer Duration:**
+   - **Confirmar

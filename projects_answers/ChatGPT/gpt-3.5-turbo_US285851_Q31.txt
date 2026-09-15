@@ -1,0 +1,7 @@
+Based on the event log provided, there were a few unexpected issues or obstacles encountered during the project implementation:
+
+1. The confirmation and guarantee of budget source (Task 5) took 55 days to complete, which is significantly longer than other tasks. This delay may have been caused by difficulties in securing the necessary funding or approvals, leading to a prolonged process.
+
+2. The task of confirming and ensuring that the application is registered in the Architecture Portal/CMDB (Task 8) also took 5 days to complete. This delay could indicate potential issues with information verification or data accuracy within the system.
+
+These unexpected delays were likely managed through continuous communication and coordination among team members, stakeholders, and relevant departments involved in the project. Additionally, proactive problem-solving, escalation of issues to higher management if needed, and prioritization of tasks would have been key strategies to overcome these obstacles and ensure the project's successful completion within the specified timeline.

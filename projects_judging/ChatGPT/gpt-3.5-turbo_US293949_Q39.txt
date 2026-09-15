@@ -1,0 +1,11 @@
+Yes, there were delays in the project. Some of the activities that took significantly longer than average to execute were:
+
+1. Task 19 - "Cadastrar Servidor no GA - Windows" took 3 days instead of the expected 1 day. This delay may have been caused by technical issues or complexity in the process of registering the server.
+
+2. Task 20 - "Liberar regras de firewall" took 6 days instead of the expected 1 day. This delay may have been caused by coordination issues between the "Segurança da Informação," "Suporte Rede Corporativa," and "LFI" resources involved in the task.
+
+3. Task 27 - "Criação de balancemanto no F5" took 3 days instead of the expected 1 day. This delay could have been due to technical challenges in setting up the load balancer or resource availability issues.
+
+4. Task 51 - "Certificação da Implantação" took 8 days instead of the expected duration. This delay may have been caused by the need for extensive testing and validation before certifying the implementation.
+
+5. Task 58 - "Acompanhar as atívidades pós implantação de infraestrutura" took 30 days instead of the expected duration. This significant delay could indicate either poor project management, unforeseen challenges during the post-implementation activities, or resource constraints.

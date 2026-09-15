@@ -1,0 +1,14 @@
+After analyzing the two project plans (Project 1 and Project 3), I found some delays and potential causes:
+
+1. **Delays:** Several tasks had delayed start or completion dates:
+	* In Project 1: Tasks 25-27 (Solicitar CF, Solicitar a Reserva/alocação de IP-Específico para servidores virtuais) were rescheduled from July 1st to July 24th. Task 28 (Formalização das licenças previamente autorizadas) was delayed until July 3rd.
+	* In Project 3: Tasks 63-64 (Implementação de Monitoração e Implementação de Blackout da Monitoração) were rescheduled from August 7th to August 12th and August 13th, respectively. Task 66 (Fechar ARS Pai) was delayed until September 16th.
+2. **Causes:**
+	* In Project 1:
+		+ The delay in tasks 25-27 might be due to the need for additional planning or coordination with stakeholders.
+		+ Task 28's delay could be caused by the complexity of formalizing licenses, which requires more time and effort than anticipated.
+	* In Project 3:
+		+ The delays in tasks 63-64 might be due to the need for additional testing or validation before implementing monitoring and blackout solutions.
+		+ Task 66's delay could be caused by the need for further coordination with stakeholders or teams, which is not clearly indicated.
+
+Please note that these are just hypotheses based on limited information. Without more context, it is difficult to determine the exact causes of the delays.

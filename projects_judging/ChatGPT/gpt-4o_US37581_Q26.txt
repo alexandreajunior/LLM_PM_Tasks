@@ -1,0 +1,24 @@
+From the event log provided for the IT infrastructure implementation project, several lessons can be inferred regarding project scope management:
+
+1. **Clear Task Definitions:**
+   The specific tasks and their durations are clearly defined. This suggests that proper scoping with detailed task-level planning helps in setting clear expectations. A lesson here is that breaking down the project into smaller, well-defined tasks can aid in effective scope management and monitoring.
+
+2. **Monitoring and Adjusting to Delays:**
+   Tasks that exceeded their estimated durations, such as the "Montar DSOL para apresentar na Plenária" task taking 10 days, highlight the need for active monitoring and flexibility in scope management. Delays might occur due to resource availability or unforeseen complexities, reinforcing the lesson that scope management must accommodate adjustments for contingencies.
+
+3. **Resource Allocation:**
+   Multiple tasks involve the "Project Manager" and other key resources like "Arquiteto de Soluções" and "Responsável Implantação", highlighting the importance of properly structuring and aligning resources with project tasks. An important takeaway is that successful project scope management relies on having the right resources allocated to each task.
+
+4. **Handling Dependencies:**
+   Tasks such as "Atualizar o CMDB" being parallel to "Implementação de Backup" present scenarios where tasks are potentially dependent or running concurrently. Properly managing such dependencies within the project scope is crucial to prevent delays and overlaps, which suggests the importance of identifying and addressing task interdependencies early in the project.
+
+5. **Workflow and Task Sequencing:**
+   Tasks are sequenced in an order that respects logical workflow progression (e.g., "Solicitar CF" before "Handover para o RI"). This highlights the significance of planning and maintaining logical task sequences within the project scope to ensure smooth progression and minimize bottlenecks.
+
+6. **Managing Changes and Expectation:**
+   The extensive duration of "Acompanhar as atividades pós implantação de infraestrutura" (22 days) indicates potential scope changes or extended follow-up activities. A lesson here is the importance of having change management processes and setting realistic boundaries for post-implementation monitoring within the project scope.
+
+7. **Comprehensive Documentation and Reporting:**
+   The project includes tasks focused on documentation such as "Montar relatório de entrega" and "Gerar o checklist." These ensure that there is comprehensive documentation and formal reporting, highlighting the lesson that maintaining complete and up-to-date documentation is key to managing project scope effectively.
+
+In summary, effective scope management in this project emphasizes the need for clear task definition, resource allocation, dependency handling, logical task sequencing, change management, and comprehensive documentation. These practices help to manage expectations, monitor progress, and accommodate necessary adjustments during project execution.

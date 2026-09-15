@@ -1,0 +1,13 @@
+Based on the event log provided, several activities took longer than expected, indicating potential performance issues or obstacles during the project execution. Some of the significant delays include:
+
+1. **Montar DSOL para apresentar na Plenária(Atendendo checklist):** This task took 10 days to complete, which is significantly longer than other similar tasks in the project. This delay might have been due to the complexity of the checklist requirements or resource constraints.
+
+2. **Liberar regras de firewall:** This activity took 5 days to complete, involving multiple resources. The involvement of different teams might have caused coordination issues leading to delays.
+
+3. **Atualizar o CMDB e gerar evidência:** This task took 5 days to complete, which could indicate challenges in updating the configuration management database or issues in documenting the evidence accurately.
+
+4. **Acompanhar as atividades pós implantação de infraestrutura:** This task lasted for 22 days, which is considerably longer than other tasks. This extended timeline suggests potential challenges in monitoring and managing post-implementation activities effectively.
+
+5. **Implementação de Monitoração (ativação) and Implementação de Blackout da Monitoração:** Both tasks took 3 days each, indicating potential issues in setting up monitoring systems efficiently.
+
+To manage these unexpected issues or obstacles, the project manager likely had to reassess resource allocation, communicate with stakeholders to address delays, and prioritize tasks effectively. Additionally, regular monitoring of task progress, identifying bottlenecks, and adjusting the project plan as needed could have helped in overcoming these obstacles and ensuring timely project delivery.

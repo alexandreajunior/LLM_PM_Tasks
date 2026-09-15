@@ -1,0 +1,13 @@
+Based on the provided project plan, I didn't find any specific information about unexpected issues or obstacles that arose during the project execution. The project seems to have a clear timeline with defined tasks and responsibilities for each phase.
+
+However, some tasks do have "0 days" assigned, which means they were completed immediately. This might indicate that there were no significant issues or obstacles encountered during those tasks.
+
+On the other hand, some tasks have longer durations (e.g., 8 days, 30 days), which might suggest potential challenges or risks that need to be managed throughout the project lifecycle.
+
+To better understand the project's risk management and issue-handling processes, I would like to know more about:
+
+1. The type of issues or obstacles that were anticipated and planned for during the project (e.g., technical, logistical, stakeholder-related).
+2. The procedures and protocols in place for identifying, assessing, mitigating, and resolving unexpected issues or obstacles.
+3. Any notable incidents or issues that arose during the project, and how they were managed.
+
+Without this additional context, it's difficult to provide a comprehensive assessment of the project's risk management and issue-handling processes.

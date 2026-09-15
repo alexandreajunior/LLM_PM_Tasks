@@ -1,0 +1,31 @@
+To determine if there were delays in the project, we need to analyze the duration of activities in the event log and compare them to identify any instances where the duration appears significantly longer than typical durations for similar tasks. Here are some observations and potential causes of delays:
+
+1. **Confirmar/garantir fonte orçamentária (FOI doador) – 55 days (27.03.2024 to 17.06.2024):**
+   - This task took the longest time, 55 days, which is considerably longer than other tasks. Budget approvals and confirmations typically take time due to bureaucracy and the need for multi-level approvals. Potential causes for delay could be:
+     - Complex approval processes.
+     - Dependencies on external parties or slow decision-making processes.
+     - Possible delays in response from the finance department or stakeholders.
+
+2. **Montar DSOL para apresentar na Plenária – 10 days (24.06.2024 to 05.07.2024):**
+   - This duration seems longer compared to other tasks of similar nature. Potential causes could be:
+     - Complexity of the documentation process.
+     - Collaboration challenges among involved team members.
+
+3. **Liberar regras de firewall – 5 days (23.07.2024 to 29.07.2024):**
+   - Although not significantly long on its own, it occurred twice with the same duration. Potential causes could be:
+     - Coordination between security and network teams might be causing delays due to policy checks.
+     - Possible issues with the availability of resources (firewall/security team).
+
+4. **Certification and monitoring implementation tasks:**
+   - The "Certification of Implementation" was repeated twice, each taking 8 days:
+     - The repeated certification might suggest reevaluation due to issues not meeting initial certification criteria.
+     - Both certification tasks had the involvement of "Security da Informação," indicating potential delays related to security compliance and assessments.
+
+5. **Acompanhar as atividades pós implantação de infraestrutura – 30 days (19.08.2024 to 27.09.2024):**
+   - A lengthy duration suggests a comprehensive follow-up process which might involve prolonged monitoring and checking mechanisms.
+
+6. **Overall observations:**
+   - Administrative and compliance tasks such as approvals, certifications, and resource allocation typically took longer durations, indicating that these could be the primary delay factors.
+   - Delays in decision-making, complex approval processes, and dependency on multiple teams and resource allocation might have also contributed to extended project duration.
+  
+In summary, the most significant delays appear to be tied to budget confirmation and approval processes, as well as resource allocation and complex multi-team collaboration efforts, especially where compliance and security assessments are involved.

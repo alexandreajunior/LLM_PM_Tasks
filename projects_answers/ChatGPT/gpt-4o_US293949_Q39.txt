@@ -1,0 +1,42 @@
+To identify delays and their potential causes within the project execution captured in the provided event log, we need to examine the activities with durations longer than the typical one-day execution timeline observed in most tasks. Here are observations from the event log:
+
+1. **Delays Identified:**
+   - **Task 19: Cadastrar Servidor no GA - Windows (3 days)**
+     - This activity took longer than the usual one day. The cause might involve complexities in server access or setup that required more time.
+   
+   - **Task 20: Liberar regras de firewall (6 days and another instance for 5 days)**
+     - This task took significantly longer than others. The involvement of multiple resources such as "Segurança da Informação", "Suporte Rede Corporativa", and "LFI" suggests that coordination between different teams or departments caused delays. There could have been additional security checks or policy issues that needed resolution.
+   
+   - **Task 27: Criação de balancemanto no F5 (3 days)**
+     - Configuring load balancing (F5) took longer than a typical task, possibly due to technical challenges or required synchronization with other network services.
+   
+   - **Task 29: Montar relatório de entrega/checklist parcial (2 days)**
+     - Preparation of deliverable reports took longer than expected, potentially due to the complexity or comprehensiveness required.
+   
+   - **Task 33: Cadastrar Servidor no GA - Windows (3 days)**
+     - This was a repeat of Task 19, again indicating potential challenges in server access or setup processes.
+   
+   - **Task 41: Instalação de Instância de SQL Server (Stand Alone) (2 days)**
+     - SQL Server installation might have encountered technical challenges or required additional setup time for optimization.
+   
+   - **Task 49: Implementação de Backup (4 days)**
+     - Backup implementation took longer, likely because of complex configurations or ensuring data integrity and safety.
+   
+   - **Task 51: Certificação da Implantação (8 days and another instance for 8 days)**
+     - Certification is naturally time-consuming, but the extended duration suggests extensive verification procedures or bottlenecks in security approvals.
+   
+   - **Task 53: Implantar classe de backup (4 days)**
+     - Similar to Task 49, additional time might have been needed for thorough testing and configuration.
+   
+   - **Task 58: Acompanhar as atividades pós implantação de infraestrutura (30 days)**
+     - This long duration perhaps indicates ongoing post-implementation monitoring that naturally extends across a month.
+   
+   - **Task 69: Enviar email para o solicitante (2 days)**
+     - Sending an email taking two days suggests either a complex communication process or waiting for additional information before dispatch.
+
+2. **Causes of Delays:** 
+   - The presence of multiple teams or departments on certain tasks (particularly in security, server setup, and network configurations) likely led to coordination challenges.
+   - Tasks typically involving technical setup or configuration of systems (e.g., server registration, firewall rules, SQL Server installation) often faced delays due to potential complexities or troubleshooting needs.
+   - Extended durations for certification and report generation reflect the meticulous nature of checks and documentation required for project compliance and completion.
+
+Overall, while some delays are attributed to the inherent complexity and requirement for multi-departmental coordination, others likely stem from technical challenges during configurations and installations. Addressing these issues in future projects may involve enhanced inter-team communication, streamlined processes, and proactive mitigation strategies for known technical challenges.

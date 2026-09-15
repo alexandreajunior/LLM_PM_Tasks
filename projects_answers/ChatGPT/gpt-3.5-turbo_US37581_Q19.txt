@@ -1,0 +1,11 @@
+Based on the provided event log, there were several delays in the project:
+
+1. Task "Montar DSOL para apresentar na Plenária(Atendendo checklist)" took 10 days instead of the planned 1 day. The cause of this delay could be attributed to a complex checklist or unforeseen challenges during the preparation process.
+
+2. Task "Certificação da Implantação" took 8 days instead of the planned 4 days on two separate occasions. This suggests there may have been issues with the implementation process or the certification requirements were more elaborate than expected.
+
+3. Task "Implementação de Backup" took 4 days instead of the planned 1 day. This delay could be due to technical difficulties in setting up the backup system or unexpected issues during the implementation.
+
+4. Task "Implementação de Monitoração (ativação)" and "Implementação de Blackout da Monitoração" took 3 days each instead of the planned 1 day. This delay might have been caused by the complexity of setting up the monitoring system or unforeseen configuration challenges.
+
+Overall, the delays in the project were primarily caused by the complexity of certain tasks, unforeseen challenges, and possibly underestimating the time required for specific activities.

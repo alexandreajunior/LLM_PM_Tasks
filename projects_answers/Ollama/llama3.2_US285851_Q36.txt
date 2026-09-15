@@ -1,0 +1,12 @@
+Based on the provided project plan, several lessons regarding project scope management can be inferred:
+
+1. **Clearly defined project scope**: The project plan suggests that the project scope was well-defined from the beginning, with specific tasks and deliverables outlined in the plan.
+2. **Regular monitoring of scope changes**: There are numerous "Validar entrega" and "Montar relatório de entrega/checklist parcial" tasks throughout the project plan, indicating regular review and validation of scope changes.
+3. **Effective change management**: The project plan includes various "Atualizar o SPS com o último DSOL do sistema e realizar o check in", "Atualizar SPS e Clarity", and "Enviar email para o solicitante" tasks, which suggest that the team had a process in place for managing scope changes and communicating with stakeholders.
+4. **Proactive scope management**: Some tasks, such as "Atualizar patches" (US285851 #60) and "Fechar ARS Pai" (US285851 #69), indicate proactive scope management to ensure that the project was completed on time and within budget.
+
+However, there is one potential lesson learned regarding project scope management:
+
+5. **Scope creep**: The frequent updates and changes throughout the project plan suggest that scope creep may have occurred. This could be due to various factors, such as changes in stakeholder requirements or the need for additional features or tasks. To mitigate this, it's essential to establish clear scope boundaries and communicate them effectively to all stakeholders.
+
+Overall, while there are some indications of effective scope management, the project plan also suggests that scope creep may have occurred, highlighting the importance of establishing clear scope boundaries and managing changes proactively.

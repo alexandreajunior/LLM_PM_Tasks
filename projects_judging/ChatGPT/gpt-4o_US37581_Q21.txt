@@ -1,0 +1,24 @@
+To determine if there were any unexpected issues or obstacles in the project's execution which caused delays, we will analyze the event log, focusing on activities that took significantly longer than their average durations within the context of the project.
+
+### Analysis of Event Log
+
+1. **Task Durations:**
+   - Most tasks were completed in 1-2 days, which seems to be the standard duration for tasks.
+   - Outliers include tasks like "Montar DSOL para apresentar na Plenária(Atendendo checklist)" (10 days), "Solicitar CF" (5 days), "Liberar regras de firewall" (5 days), "Atualizar o CMDB e gerar evidência" (5 days), "Certificação da Implantação" on two occasions (8 days each), and "Acompanhar as atividades pós implantação de infraestrutura" (22 days).
+
+2. **Pattern of Potential Delays:**
+   - For tasks such as "Montar DSOL para apresentar na Plenária" and "Acompanhar as atividades pós implantação de infraestrutura," the extended duration may indicate a higher complexity or extensive coordination requirement.
+   - Tasks managed by "Segurança da Informação," "Responsável Implantação," and the "Project Manager" have longer durations. This can signify potential bottlenecks due to resource availability or task complexity.
+   - "Certificação da Implantação" is notably longer than most other tasks (8 days), suggesting either an unexpected issue or a rigorous process requirement.
+
+3. **Obstacles and Management:**
+   - The project witnessed extended durations in tasks often associated with infrastructure setup, approval processes, and certain certifications, notably handled by specialized roles. Long durations in certification and monitoring tasks might imply careful scrutiny or unforeseen complexities.
+   - Management strategies seem to involve methodical task scheduling with noticeable gaps between tasks possibly allowing for re-evaluation, re-allocation, or buffering against potential unforeseen issues.
+   - Tasks executed by multiple stakeholders (e.g., "Segurança da Informação" and "Projet Manager") may indicate collaboration challenges, managed by scheduling buffer times, evident in the timeline.
+
+### Conclusion
+
+- **Unexpected Issues:** Several tasks took notably longer than the majority, indicating potential unexpected issues or complexities, particularly during certification, infrastructure monitoring implementation, and follow-up tasks.
+- **Management:** These issues appear to be managed through a structured approach, employing overlap of non-conflicting tasks, buffer periods between critical handoffs, and likely reevaluation periods post-significant milestones, as evidenced by the timeline’s task sequencing and resource assignment.
+
+This structured, albeit longer-than-expected, approach might have helped safeguard against potential spirals in further delays, reflecting thoughtful project management.

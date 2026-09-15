@@ -1,0 +1,7 @@
+Upon analyzing the event logs of the three projects, it is evident that there were unexpected issues or obstacles encountered during the execution of the projects. Some of these issues include delays in tasks such as confirming if the application is registered in the architecture portal/CMDB, generating evidence for CMDB update, and obtaining approval from clients. 
+
+To manage these unexpected issues, the project managers took several actions. For example, in Project_ID US37581, the project manager had to request a change freeze (CF) to deal with delays and ensure a smooth progression. Additionally, in Project_ID US285851, the project manager extended the duration for confirming the source of budgetary allocation to address the unexpected delay in this task.
+
+Furthermore, the event logs show that in Project_ID US293949, the project manager extended the duration of the task "Implementação de Monitoração (ativação)" to 4 days to address any unforeseen challenges in the implementation process. This proactive approach allowed for sufficient time to tackle unexpected obstacles and ensure successful project completion.
+
+Overall, the project managers demonstrated effective problem-solving skills by adjusting timelines and resources to manage unexpected issues and obstacles encountered during the project execution.

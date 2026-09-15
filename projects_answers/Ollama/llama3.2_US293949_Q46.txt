@@ -1,0 +1,15 @@
+After reviewing the project plan, I've identified some potential lessons learned regarding project scope management:
+
+1. **Inadequate scope definition**: Some tasks, such as "Instalação de Instância de SQL Server (Stand Alone)", "Criação de Banco de Dados", and "Implantação de Monitoração (ativação)", have a start date of September 1st, which is after the project's planned completion date. This suggests that these tasks may be outside the original scope or require additional resources.
+2. **Scope creep**: The project plan includes numerous iterations of tasks, such as "Atualizar patches" and "Montar relatório de entrega", which were added at different stages of the project. This could indicate a lack of clear scope definition or a failure to prioritize tasks effectively.
+3. **Unclear dependencies**: Some tasks, like "Instalação de Instância de SQL Server (Stand Alone)" and "Criação de Banco de Dados", are not explicitly linked to other tasks in the plan. This could lead to misunderstandings about the scope of work or the impact of changes on downstream tasks.
+4. **Lack of phase-specific scope management**: The project plan doesn't appear to have a clear scope definition for each phase (e.g., planning, implementation, testing, deployment). This might result in inconsistent expectations and overlapping work between phases.
+
+To avoid similar issues in future projects, it's essential to:
+
+* Establish a clear and concise project scope statement
+* Define and track task dependencies accurately
+* Prioritize tasks effectively and manage scope creep proactively
+* Regularly review and update the project scope as needed
+
+By doing so, you can ensure that your project stays on track, meets its objectives, and delivers the expected value to stakeholders.

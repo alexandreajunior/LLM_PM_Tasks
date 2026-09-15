@@ -1,0 +1,23 @@
+To determine whether the project deliverables were completed on time and within budget, we need to evaluate the event log for any indications of significant delays or resource overuse that could suggest budget overruns. The event log provides information about the planned durations, start and finish dates, and resources involved, but it doesn't explicitly state the planned end date or budget. However, we can analyze the given log to assess potential issues.
+
+### Timeliness
+- **Durations**: Most of the tasks appear to have reasonable durations. However, a few tasks have notably longer durations, such as:
+  - "Montar DSOL para apresentar na Plenária" took 10 days.
+  - "Liberar regras de firewall" was scheduled for 5 days.
+  - "Certificação da Implantação" was scheduled twice, taking 8 days each.
+  - "Acompanhar as atividades pós implantação de infraestrutura" had a duration of 22 days.
+
+These tasks could suggest potential delays if they exceeded original expectations.
+
+- **Sequence of Dates**: The event log starts on 05.09.2024 and ends on 28.11.2024, covering almost three months. Without an original project plan detailing expected end dates for deliverables, it's challenging to confirm if the project was on time.
+
+### Budget
+- **Resource Utilization**: Multiple resources are used, covering roles like Project Manager, Architect, Support teams (Windows, Unix, Network, etc.), and more. Without specific budgetary information tied to these resources, it's impossible to directly assess budget adherence.
+
+- **Task Overlaps/Increases**: Any extended task durations might imply increased labor costs. Resources like "Segurança da Informação" and "Responsável Implantação" are associated with longer activities, possibly incurring more costs than anticipated.
+
+### Conclusion
+- **On Time**: We lack initial timeline benchmarks; however, assuming these task durations aligned with planned schedules, there's no concrete evidence of major deadline breaches.
+- **Within Budget**: Without explicit budgetary figures, assumptions may suggest that extended tasks could strain financial resources if unplanned.
+
+Overall, from the available data, we cannot definitively conclude whether the project was completed strictly on time and within budget without more context on initial expectations.

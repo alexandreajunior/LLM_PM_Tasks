@@ -1,0 +1,24 @@
+Based on the provided event log of the IT infrastructure implementation project, several lessons can be drawn regarding project scope management:
+
+1. **Defined Scope & Task Overlap**:
+   - The project log indicates overlapping tasks and sequential activities that are dependent on one another. This highlights the importance of clearly defining the scope and understanding task dependencies to avoid bottlenecks. For example, multiple tasks started on the same date such as on the 25th and 28th of September, possibly causing resource contention.
+
+2. **Resource Allocation & Role Clarity**:
+   - There appears to be a variety of roles involved in this project (e.g., Project Manager, Suporte Unix, Suporte Windows). Proper scope management involves ensuring that all necessary roles are clearly defined and that each resource understands their responsibilities to avoid delays.
+
+3. **Duration Management**:
+   - Some tasks have variable durations, such as "Montar DSOL para apresentar na Plenária" which lasted 10 days. This variance suggests that duration estimations and resource capacity should be actively monitored to align with the defined scope, identifying potential risk factors for delays.
+
+4. **Timelines & Buffer Allocation**:
+   - Complex projects can benefit from buffers built into timelines, especially when high-risk tasks take longer than planned. Activities like "Certificação da Implantação" and "Acompanhar as atividades pós implantação de infraestrutura" with durations of 8 and 22 days respectively require careful planning to accommodate variances without impacting the overall timeline.
+
+5. **Critical Path Identification**:
+   - Understanding the critical path is essential for scope management. Certain tasks, especially those with extended durations or significant dependencies, must be prioritized and closely monitored to prevent overall project delays.
+
+6. **Documentation & Communication**:
+   - Tasks such as "Montar o relatório de entrega" and "Enviar email para o solicitante" emphasize the importance of documentation and effective communication within project boundaries. Ensuring that proper documentation is part of the scope ensures accountability and transparency across all project phases.
+
+7. **Change Management**:
+   - Unexpected changes can impact scope. The need for flexibility within the project plan to accommodate changes without derailing the project’s objectives emphasizes the need for a robust change management process.
+
+Addressing these areas can enhance scope management, minimize delays, and improve resource utilization in future projects of a similar nature.

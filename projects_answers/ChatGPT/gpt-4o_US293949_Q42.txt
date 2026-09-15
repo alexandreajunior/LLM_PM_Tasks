@@ -1,0 +1,20 @@
+To determine if the project stayed within the allocated resources (human, financial, technical), we need to examine multiple aspects of the event log provided:
+
+1. **Human Resources:**
+   - There are numerous tasks carried out by different roles such as Project Manager, Suporte Windows, Segurança da Informação, etc. Tasks generally appear to take 1-2 days, with some exceptions (e.g., 'Acompanhar as atividades pós implantação de infraestrutura' which took 30 days).
+   - Two tasks, "Certificação da Implantação" and a task to "Liberar regras de firewall" in earlier stages, significantly exceeded the typical duration with 8 days and up to 6 days, implying increased resource utilization.
+   - Multiple roles spanning the project indicate a diverse use of available human resources, which could mean staying within human resource allocations, provided that these roles were planned and available at the project onset.
+
+2. **Financial Resources:**
+   - The document does not specify any costs or budget figures, but long durations on certain tasks could imply higher labor costs or unexpected expenses if these delays weren't planned or result from inefficiencies or technical issues.
+   - Long tasks may suggest cost overruns due to extended labor requirements if these durations weren't within original estimates.
+
+3. **Technical Resources:**
+   - Tasks related to infrastructure setup, server registrations, and firewall rules suggest significant use of technical resources.
+   - Delays in operations that seem technical (like network/firewall configurations taking many days) could point to potential resource bottlenecks or under-allocation of technical capacity.
+   - The 30-day task "Acompanhar as atividades pós implantação de infraestrutura" indicates sustained involvement of resources, potentially implying that technical resources were stretched.
+
+**Conclusion:**
+- Without explicit budget constraints or resource allocation details, it's challenging to definitively state whether the project stayed within all planned resources limits.
+- The apparent bottlenecks or delays in specific tasks, if unplanned, would suggest potential overuse of human resources and technical resources, which may, in turn, impact financial resource allocations.
+- For a more accurate assessment, detailed records of budget, resource allotment, and planned task durations versus actual durations would be required. This could confirm resource adherence more definitively by comparing plan versus actual usage.

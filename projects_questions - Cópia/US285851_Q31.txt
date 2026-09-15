@@ -1,0 +1,65 @@
+**Prompt:**
+
+You are presented with an event log of a finished project about the implementation of an IT  infrastructure for an application to discover network devices. The event log captures a single project execution.
+
+Below, you will find an event log in tabular format. Each row corresponds to an event: a specific activity performed on the  project at a given timestamp. The first event marks when the project started, and the last event marks the closure of the project. All timestamps are aligned to a common reference timeline. Activities that take significantly longer than average to execuyte suggest performance issues. Your task is to identify any patterns or factors that may be causing these delays.
+
+**Event Log (Tabular Format):**
+
+Project_ID;ID;Task_Name;Duration;Start_Date;Finish_Date;Resource_Names
+US285851;3;Handover Planejamento;1 day;26.03.2024 09:00;26.03.2024 18:00;Solicitante
+US285851;4;Alocar recurso/reunião P&I;1 day;27.03.2024 09:00;27.03.2024 18:00;P&I Manager
+US285851;5;Confirmar/garantir fonte orçamentária (FOI doador);55 days;27.03.2024 09:00;17.06.2024 18:00;Project Manager
+US285851;6;Realizar reunião com o solicitante/cliente;2 days;18.06.2024 09:00;19.06.2024 18:00;Project Manager
+US285851;7;Solicitante/cliente deverá informar a Data de Entrada de Produção dos Servidores (ativação da Monitoração);2 days;20.06.2024 09:00;21.06.2024 18:00;Solicitante
+US285851;8;Confirmar/garantir se a aplicação está cadastrada no Portal de Arquitetura/CMDB;5 days;26.03.2024 09:00;02.04.2024 18:00;Project Manager
+US285851;10;Montar DSOL para apresentar na Plenária(Atendendo checklist);10 days;24.06.2024 09:00;05.07.2024 18:00;Arquiteto de Soluções
+US285851;11;Reunião com os times técnicos e/ou cliente;1 day;27.06.2024 09:00;27.06.2024 18:00;Project Manager
+US285851;12;Solicitar um RI;1 day;08.07.2024 09:00;08.07.2024 18:00;Project Manager
+US285851;13;Apresentar na Plenária 1;5 days;08.07.2024 09:00;12.07.2024 18:00;Arquiteto de Soluções
+US285851;14;Solicitar aprovação do cliente;3 days;08.07.2024 09:00;10.07.2024 18:00;Project Manager
+US285851;16;Solicitar CF;5 days;08.07.2024 09:00;12.07.2024 18:00;Project Manager
+US285851;17;Solicitar reserva/alocação de todos os recursos envolvido no projeto;6 days;15.07.2024 09:00;22.07.2024 18:00;Planejamento de Disponibilidade
+US285851;19;Solicitar reserva/alocação de todos os recursos envolvido no projeto;6 days;15.07.2024 09:00;22.07.2024 18:00;Planejamento de Disponibilidade
+US285851;20;Solicitar a Reserva/alocação de IP- Específico para servidores virtuais;1 day;15.07.2024 09:00;15.07.2024 18:00;Suporte Rede Corporativa
+US285851;21;Formalização das licenças previamente autorizadas;2 days;15.07.2024 09:00;16.07.2024 18:00;Controle de Ativos
+US285851;23;Handover para o RI;1 day;23.07.2024 09:00;23.07.2024 18:00;Project Manager
+US285851;24;Abrir chamados implantação;2 days;24.07.2024 09:00;25.07.2024 18:00;Responsável Implantação
+US285851;27;Cadastro de servidores no DNS (.intranet, .interno, .backup e etc);1 day;26.07.2024 09:00;26.07.2024 18:00;Suporte Windows
+US285851;28;Cadastrar Servidor no GA - Windows;3 days;29.07.2024 09:00;31.07.2024 18:00;SCA_ACESSO
+US285851;29;Liberar regras de firewall;5 days;23.07.2024 09:00;29.07.2024 18:00;"Segurança da Informação[50%];Suporte Rede Corporativa[50%];LFI"
+US285851;32;Criação de estrutura de maquina virtual mediante OVF;3 days;26.07.2024 09:00;30.07.2024 18:00;Suporte Windows
+US285851;33;Cadastro do IP de backup no media server - Windows;1 day;26.07.2024 09:00;26.07.2024 18:00;Suporte Unix
+US285851;34;Atualizar o CMDB e gerar evidência (relacionamento de aplicação no servidor/banco, ambiente, status, inserir data de produção dos servidores, etc);5 days;31.07.2024 09:00;06.08.2024 18:00;Responsável Implantação
+US285851;37;Cadastro de servidores no DNS (.intranet, .interno, .backup e etc);1 day;26.07.2024 09:00;26.07.2024 18:00;Suporte Windows
+US285851;38;Cadastrar Servidor no GA - Windows;3 days;24.07.2024 09:00;26.07.2024 18:00;SCA_ACESSO
+US285851;39;Liberar regras de firewall;5 days;23.07.2024 09:00;29.07.2024 18:00;"Segurança da Informação[50%];Suporte Rede Corporativa[50%];LFI"
+US285851;42;Criação de estrutura de maquina virtual diferente de Windows - Servidor Virtual;1 day;23.07.2024 09:00;23.07.2024 18:00;Suporte Windows
+US285851;43;Instalação do s.o. Windows e criação das partições - Servidor Virtual;2 days;24.07.2024 09:00;25.07.2024 18:00;Suporte Windows
+US285851;44;Cadastro do IP de backup no media server - Windows;1 day;24.07.2024 09:00;24.07.2024 18:00;Suporte Unix
+US285851;45;Validação do aprovisionamento do grupo do solicitante nos servidores (Exceto para Banco de Dados);1 day;25.07.2024 09:00;25.07.2024 18:00;Responsável Implantação
+US285851;46;Atualizar o CMDB e gerar evidência (relacionamento de aplicação no servidor/banco, ambiente, status, inserir data de produção dos servidores, etc);5 days;26.07.2024 09:00;01.08.2024 18:00;Responsável Implantação
+US285851;47;Montar relatório de entrega/checklist parcial;2 days;02.08.2024 09:00;05.08.2024 18:00;Responsável Implantação
+US285851;48;Validar entrega parcial;0 days;06.08.2024 18:00;06.08.2024 18:00;Project Manager
+US285851;52;Certificação da Implantação;8 days;07.08.2024 09:00;16.08.2024 18:00;Segurança da Informação
+US285851;53;Validar entrega final;0 days;16.08.2024 18:00;16.08.2024 18:00;Project Manager
+US285851;55;Montar o relatório de entrega;2 days;19.08.2024 09:00;20.08.2024 18:00;Responsável Implantação
+US285851;56;Gerar o checklist;1 day;21.08.2024 09:00;21.08.2024 18:00;Project Manager
+US285851;58;Acompanhar as atívidades pós implantação de infraestrutura;30 days;19.08.2024 09:00;27.09.2024 18:00;Project Manager
+US285851;60;Atualização de patches;1 day;30.09.2024 09:00;30.09.2024 18:00;Suporte SO
+US285851;61;Certificação da Implantação;8 days;01.10.2024 09:00;10.10.2024 18:00;Segurança da Informação
+US285851;63;Implementação de Monitoração (ativação);3 days;30.09.2024 09:00;02.10.2024 18:00;Suporte Monitoração
+US285851;64;Implementação de Blackout da Monitoração;3 days;03.10.2024 09:00;07.10.2024 18:00;Suporte Monitoração
+US285851;66;Atualizar o relatório de entrega;2 days;11.10.2024 09:00;14.10.2024 18:00;Responsável Implantação
+US285851;67;Gerar o checklist;1 day;15.10.2024 09:00;15.10.2024 18:00;Project Manager
+US285851;69;Fechar ARS Pai;1 day;16.10.2024 09:00;16.10.2024 18:00;Responsável Implantação
+US285851;70;Atualizar o SPS com o último DSOL do sistema e realizar o check in;1 day;17.10.2024 09:00;17.10.2024 18:00;Project Manager
+US285851;71;Atualizar SPS e Clarity;1 day;17.10.2024 09:00;17.10.2024 18:00;Project Manager
+US285851;72;Enviar email para o solicitante;1 day;17.10.2024 09:00;17.10.2024 18:00;Project Manager
+
+This is a project plan.
+**Your Task:**
+1. Answer the following question.
+
+Were there any unexpected issues or obstacles, and how were they managed?
+

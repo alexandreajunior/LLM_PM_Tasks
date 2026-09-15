@@ -1,0 +1,9 @@
+Based on the event log, I did not find any information about lessons learned in terms of project scope management. The event log only provides details about the activities performed during the project, their duration, and the resources involved.
+
+However, there are some events that suggest potential issues with project scope management:
+
+* Event 15 (US37581;15;Solicitar CF;5 days) indicates that a Critical Facility (CF) was requested after the initial plan had been approved. This could be seen as a scope creep issue.
+* Event 32 (US37581;32;Cadastro do IP de backup no media server - Windows;1 day) and event 31 (US37581;31;Instalação do s.o. Linux, criação dos FileSystem e cadastro no MediaServer - Servidor Virtual;4 days) suggest that the project scope required additional resources and effort to implement a virtual machine infrastructure.
+* Event 38 (US37581;38;Atualizar o CMDB e gerar evidência) indicates that the project required significant updates to the CMDB, which could be seen as an example of scope creep.
+
+Overall, while these events do not explicitly state lessons learned regarding project scope management, they suggest that there were some changes or additions to the original plan that may have impacted the project timeline and resources.

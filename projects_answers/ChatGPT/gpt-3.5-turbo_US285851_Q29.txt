@@ -1,0 +1,11 @@
+Yes, there were delays in the project. Some of the significant delays in the project were:
+
+1. **Confirmar/garantir fonte orçamentária (FOI doador) - 55 days:** This task took an unusually long time, potentially indicating issues related to budget confirmation or donor communication.
+
+2. **Montar DSOL para apresentar na Plenária(Atendendo checklist) - 10 days:** This task also took longer than expected, potentially due to the complexity of preparing the presentation and meeting checklist requirements.
+
+3. **Solicitar a Reserva/alocação de IP- Específico para servidores virtuais - 1 day:** This task was delayed, which might have impacted subsequent steps requiring specific IP allocations.
+
+4. **Atualização de patches - 1 day:** This task also faced a delay, possibly due to technical issues or the need for additional testing.
+
+Overall, these delays were caused by various factors such as budget uncertainties, complex task requirements, resource unavailability, and technical challenges.

@@ -1,0 +1,9 @@
+Based on the event log, I have identified several lessons learned regarding project scope management:
+
+1. **Scope creep**: The task "Solicitar reserva/alocação de todos os recursos envolvido no projeto" (US285851;17) was repeated twice with a 6-day delay, indicating that the project scope may have expanded unexpectedly.
+2. **Change requests**: The task "Gerar o checklist" (US285851;56) and "Montar o relatório de entrega" (US285851;55) were done repeatedly with short delays, suggesting that there were multiple change requests or adjustments to the project scope.
+3. **Lack of clear definitions**: The task "Atualizar SPS e Clarity" (US285851;71) was mentioned without any prior tasks indicating its necessity, indicating a potential lack of clear definitions and requirements for these components.
+4. **Insufficient planning for post-implementation activities**: The task "Acompanhar as atividades pós implantação de infraestrutura" (US285851;58) was started with no apparent preparation or consideration of the scope implications, suggesting that more planning was needed to define the scope and timeline for these activities.
+5. **Delays due to unclear dependencies**: The repeated delays in tasks related to "Cadastro de servidores no DNS (.intranet, .interno, .backup e etc)" (US285851;27, 37, 38) and "Liberar regras de firewall" (US285851;29, 39) suggest that there were unclear dependencies or lack of communication between team members.
+
+These observations highlight the importance of clear project scope definition, effective change management, and thorough planning to avoid scope creep, ensure timely completion of tasks, and minimize delays.

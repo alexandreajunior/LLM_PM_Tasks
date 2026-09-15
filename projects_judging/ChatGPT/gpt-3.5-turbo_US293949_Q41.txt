@@ -1,0 +1,9 @@
+Based on the event log provided, there were a few unexpected issues or obstacles encountered during the project implementation:
+
+1. **Delays in Liberar regras de firewall:** The task "Liberar regras de firewall" took longer than expected, spanning 6 days and 5 days respectively. This delay could be due to the involvement of multiple resources, including "Segurança da Informação," "Suporte Rede Corporativa," and "LFI." This issue might have been managed by escalating the task to ensure timely completion.
+
+2. **Extend duration for Certificação da Implantação:** The task "Certificação da Implantação" had an extended duration of 8 days and 8 days again at different points in the project timeline. This suggests potential issues in meeting the required criteria for certification, which may have required additional checks or adjustments to meet the necessary standards.
+
+3. **30-day task for Acompanhar as atividades pós implantação de infraestrutura:** The task "Acompanhar as atividades pós implantação de infraestrutura" lasted 30 days, significantly longer than most tasks in the project. This prolonged monitoring period may indicate ongoing issues or the need for detailed post-implementation review and support to ensure the infrastructure's stability.
+
+Overall, these unexpected issues or obstacles were likely managed through efficient communication, coordination among team members, escalation of critical tasks, and potentially reevaluation of project timelines to accommodate any necessary adjustments or resolutions.

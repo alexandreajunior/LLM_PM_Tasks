@@ -1,0 +1,7 @@
+No, not all project milestones were achieved as planned. 
+
+The first event marks when the project started on June 21st, 2024, and the last event marks the closure of the project on September 2nd, 2024. 
+
+One example of a milestone that was delayed is task #60 (Atualização de patches), which started on 03/09/2024 but completed at the same time.
+
+Another example is task #61 (Certificação da Implantação), which started on 04/09/2024 but completed on 13/09/2024, nearly a day after its planned deadline.

@@ -1,0 +1,8 @@
+Based on the event log provided, some unexpected issues or obstacles that could have potentially caused delays in the project implementation include:
+
+1. The task "Montar DSOL para apresentar na Plenária(Atendendo checklist)" taking 10 days to complete could indicate a more complex or time-consuming process involved.
+2. The task "Reunião com os times técnicos e/ou cliente" being scheduled relatively late in the project timeline on day 16.
+3. The task "Atualizar o CMDB e gerar evidência" took 5 days to complete, indicating a potentially tedious process.
+4. The task "Certificação da Implantação" being scheduled for 8 days, both during the initial implementation phase and later during the project.
+
+To manage these unexpected issues or obstacles, the project team may have needed to reassess priorities, allocate additional resources, or streamline processes to ensure timely completion. Communication among team members to address any bottlenecks or challenges could have been crucial in overcoming these hurdles and keeping the project on track. Additionally, regular monitoring and adjustment of the project plan may have been necessary to address any unexpected delays and ensure successful project delivery.

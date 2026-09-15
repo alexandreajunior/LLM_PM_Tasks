@@ -1,0 +1,20 @@
+Yes, there were several unexpected issues or obstacles throughout the project timeline. Here are some examples:
+
+1. **Task 5: Confirmar/garantir fonte orçamentária (FOI doador)**: This task took 55 days to complete, which is significantly longer than average for this type of task. It's unclear what caused this delay, but it may have been due to the complexity of the process or a lack of resource allocation.
+2. **Task 29: Liberar regras de firewall**: This task took an additional 5 days beyond the original expected timeframe, suggesting that there were unexpected issues with the firewall configuration.
+3. **Task 38: Cadastrar Servidor no GA - Windows**: The second instance of this task was completed on July 24th, but it's unclear why a new instance was created on July 24th as well.
+4. **Task 42: Criação de estrutura de maquina virtual diferente de Windows - Servidor Virtual**: This task took only one day to complete, which is unusually short for this type of task. It's possible that the resource was already available and ready to go.
+5. **Task 53: Validar entrega final**: This task took zero days to complete, which suggests that there were no issues with the delivery.
+
+To manage these unexpected issues, it appears that the project team:
+
+1. Identified and reported delays to stakeholders
+2. Adjusted timelines as needed
+3. Allocated additional resources or re-prioritized tasks to address delays
+4. Implemented contingency plans for recurring issues
+
+However, without more information about the specific actions taken by the project manager and team members, it's difficult to determine the full extent of how these issues were managed.
+
+It's worth noting that some tasks had multiple instances with similar names (e.g., Task 38), which may indicate a lack of clear task planning or resource allocation. This could lead to confusion and inefficiencies in the project timeline.
+
+Overall, while there were unexpected issues throughout the project, it appears that the team was able to adapt and manage them effectively, albeit sometimes at the expense of timelines and resources.

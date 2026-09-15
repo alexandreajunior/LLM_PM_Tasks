@@ -1,0 +1,18 @@
+To determine if there were any unexpected issues or obstacles and how they were managed in this project, we can analyze the event log data for tasks with longer-than-expected durations and any potential bottlenecks. Here’s a breakdown:
+
+1. **Long Durations:**
+   - The task "Montar DSOL para apresentar na Plenária(Atendendo checklist)" took 10 days from 11.09.2024 to 24.09.2024, which is considerably longer than average durations for other tasks. This may indicate a more complex task or unexpected challenges during this phase.
+   - "Certificação da Implantação" appears twice, taking 8 days each time (16.10.2024 to 25.10.2024 and 28.10.2024 to 06.11.2024). The repetition and long durations could imply verification issues or rechecks needed for certification.
+   - "Acompanhar as atividades pós implantação de infraestrutura" lasted 22 days from 28.10.2024 to 26.11.2024. This extended duration indicates post-implementation activities faced challenges, requiring close monitoring to ensure systems were stable and operating correctly.
+
+2. **Resource Allocation:**
+   - Multiple tasks are handled by single resources like "Project Manager" and "Segurança da Informação," which may lead to bottlenecks if those resources are overextended. For instance, the Project Manager was involved in several overlapping tasks, potentially causing delays.
+
+3. **Task Overlaps and Dependencies:**
+   - Several tasks overlap or are dependent on the same resources, which can be a source of delay if those resources are not managed efficiently.
+
+**Management of Issues:**
+- Despite these potential issues, it appears that the project continued to progress with various tasks being managed concurrently, which suggests that resource allocation and scheduling adjustments may have been employed to keep the project on track.
+- Tasks that followed seemed to align with the project’s overall timeline, indicating that despite extended durations for certain tasks, the project team managed to handle these challenges without significant disruptions.
+
+Overall, while there were tasks with longer durations, the successful continuation of subsequent tasks suggests that the project management team effectively navigated through potential obstacles and kept the project moving forward to its completion.

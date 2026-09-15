@@ -1,0 +1,15 @@
+Project scope management is critical in ensuring that all necessary tasks and activities are identified, planned, and completed within the project's time and resource constraints. Analyzing the event log of this project reveals several lessons that can be learned regarding effective scope management:
+
+1. **Clear Task Definition and Allocation**: Ensuring that each task is clearly defined with proper resource allocation can prevent delays. Tasks such as "Liberar regras de firewall" and "Cadastrar Servidor no GA - Windows" that took significantly longer indicate a potential mismatch in understanding or resource allocation. It's crucial to have all stakeholders aligned on task requirements and execution responsibilities.
+
+2. **Dependencies and Sequencing**: The sequence of tasks and their dependencies need to be managed effectively. For example, tasks that could start sooner were perhaps delayed due to waiting on other tasks, like those involving server setup and firewall rules. Proper sequencing can help identify potential bottlenecks before they become issues.
+
+3. **Resource Management**: It seems that some tasks involved multiple resources (e.g., "Segurança da Informação[50%];Suporte Rede Corporativa[50%];LFI"), which may have led to coordination challenges and duration extensions. Allocating dedicated resources or optimizing their roles and responsibilities could enhance efficiency.
+
+4. **Monitoring and Adjusting Scope**: Continuous monitoring and adjustment of the project scope can help accommodate unanticipated complexities or changes. Tasks with extended durations highlight the need for flexibility in scope management to address evolving project requirements or challenges.
+
+5. **Efficient Communication**: Tasks such as "Enviar email para o solicitante" occurring near the project's end suggest a need for ongoing communication throughout the project lifecycle. Regular updates and feedback mechanisms are essential to ensure all stakeholders are informed and aligned with the project scope and any changes.
+
+6. **Time Management and Parallel Processing**: Attempting to handle certain tasks concurrently can be beneficial in reducing overall project duration. However, this requires a robust understanding of dependencies and resource capability to avoid overlap conflicts or resource overloads.
+
+Overall, effective project scope management involves meticulous planning, clear communication among all involved parties, and adaptive strategies to handle potential issues as they arise.

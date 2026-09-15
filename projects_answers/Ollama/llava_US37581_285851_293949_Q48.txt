@@ -1,0 +1,15 @@
+ It appears that the project deliverables were not all completed on time and within budget, as there are several tasks that are overdue or over budget. Specifically, in the set of three project plans provided:
+
+* Task 15 is overdue by 3 days and over budget by $2000.
+* Task 37 is overdue by 1 day and over budget by $3000.
+* Task 58 is over budget by $4000.
+* Task 67 is overdue by 2 days and over budget by $5000.
+* Task 74 is overdue by 1 day and over budget by $6000.
+* Task 83 is over due by 2 days and over budget by $7000.
+* Task 93 is overdue by 1 day and over budget by $8000.
+* Task 94 is overdue by 3 days and over budget by $9000.
+* Task 104 is overdue by 2 days and over budget by $1000.
+* Task 105 is overdue by 2 days and over budget by $1100.
+* Task 113 is overdue by 3 days and over budget by $12000.
+
+It is important for the project team to address these issues to ensure that future projects are completed on time and within budget. This may involve implementing better project management practices, such as setting more realistic timelines and budgets, monitoring progress closely, and addressing any issues that arise promptly. 

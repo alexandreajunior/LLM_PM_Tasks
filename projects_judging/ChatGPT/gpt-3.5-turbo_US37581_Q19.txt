@@ -1,0 +1,9 @@
+Yes, there were delays in the project. Some of the activities that took significantly longer than average to execute were:
+
+1. Montar DSOL para apresentar na Plenária(Atendendo checklist) - 10 days
+2. Liberar regras de firewall - 5 days
+3. Atualizar o CMDB e gerar evidência - 5 days
+4. Implementação de Backup - 4 days
+5. Acompanhar as atividades pós-implantação de infraestrutura - 22 days
+
+The causes of these delays could be related to factors such as inadequate resource allocation, dependencies on other teams or processes, technical challenges faced during implementation, and possibly communication gaps. Further analysis and investigation would be needed to pinpoint the specific reasons for these delays.

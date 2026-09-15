@@ -1,0 +1,17 @@
+Based on the provided event log, several lessons can be gleaned regarding project scope management in the context of implementing IT infrastructure for an application to discover network devices:
+
+1. **Clear Scope Definition**: The project involved a variety of complex tasks that required coordination across different teams and resources. Properly defining and understanding the project scope at the onset could prevent delays, particularly in tasks like confirming the budgetary source which took 55 days.
+
+2. **Stakeholder Engagement**: The need for frequent meetings with stakeholders (e.g., project managers, clients, technical teams) indicates the importance of engaging all relevant parties throughout the project lifecycle to ensure alignment and prevent scope creep.
+
+3. **Resource Allocation**: Multiple tasks relating to resource allocation and reservation suggest that thorough planning and timely allocation are critical. Tasks were sometimes duplicated (e.g., Task 17 and Task 19, both regarding resource reservation) pointing to potential inefficiencies in managing resource dependencies within the project.
+
+4. **Sequential Dependencies**: The event log shows several tasks executed in sequence that sometimes overlap unnecessarily, highlighting the need for better management of task dependencies and workflow optimization to streamline project execution.
+
+5. **Change Control Mechanisms**: Tasks such as updating the CMDB and generating evidence multiple times during the project demonstrate that maintaining control over changes within the project's scope is important to avoid duplication of efforts and ensure all changes are effectively recorded and managed.
+
+6. **Time Management**: The duration of certain tasks such as "Confirmar/garantir fonte orçamentária (FOI doador)" and "Acompanhar as atividades pós implantação de infraestrutura" are significantly longer compared to others, indicating potential issues in time management and planning efficiency that need to be addressed in future projects.
+
+7. **Stakeholder Communication**: The final tasks, including sending an email to the requester, underscore the need for effective communication channels to ensure all stakeholders are informed of project completion and any final deliverables.
+
+In summary, a strong focus on defining and controlling the project scope, ensuring efficient resource allocation, maintaining effective stakeholder communication, and optimizing project timelines are key lessons to improve scope management in future projects.

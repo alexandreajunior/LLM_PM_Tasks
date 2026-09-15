@@ -1,0 +1,26 @@
+Based on the event log provided, there are several patterns and observations that may indicate potential issues or obstacles during the project execution. Here are some key points:
+
+1. **Extended Duration for Budget Confirmation**:
+   - The task "Confirmar/garantir fonte orçamentária (FOI doador)" took 55 days, which is significantly longer than most other tasks. This delay could suggest challenges in securing or confirming the project's budget. It seems there was a dependency on external approval or a complicated internal process to guarantee the funding.
+
+2. **Repetition of Resource Allocation Task**:
+   - The task "Solicitar reserva/alocação de todos os recursos envolvido no projeto" appeared twice, both with a duration of 6 days each. This could imply coordination issues or repeated effort in ensuring resources were adequately allocated.
+
+3. **Multiple and Overlapping Tasks for Firewall Rules**:
+   - The task "Liberar regras de firewall" was performed twice, with each occurrence taking 5 days. Such repetitions might indicate coordination challenges among the teams involved in network security, possibly due to evolving requirements or miscommunications.
+
+4. **Overlap in Technical Tasks**:
+   - Several tasks related to server setup and configuration occurred around the same time, possibly leading to resource contention. Tasks like "Criação de estrutura de maquina virtual," "Cadastro do IP de backup," and "Instalação do s.o." might require the same infrastructure or personnel, leading to scheduling challenges.
+
+5. **Intensive Final Certification and Post-deployment Monitoring**:
+   - The "Certificação da Implantação" task took 8 days over two separate periods. In conjunction with the task "Acompanhar as atividades pós implantação de infraestrutura" lasting 30 days, this indicates a thorough certification and monitoring process, potentially hinting at previous issues or customer requirements for rigorous validation.
+
+### Management of Issues:
+
+- **Prolonged Durations**: These were likely managed by a keen focus on subsequent planning and contingency measures. The long duration in budget confirmation suggests substantial preparatory adjustments for potential delays.
+  
+- **Repetition and Overlaps**: Repeated tasks point to a reactive approach, where processes are redone to meet standards or rectify issues. Efficient resource and scheduling management probably mitigated these areas, ensuring that dependencies between teams were handled smoothly.
+
+- **Formal Steps for Closure**: Several tasks towards the end of the project such as "Atualizar SPS," "Gerar o checklist," and "Enviar email para o solicitante" show a formal approach towards project closure, indicating structured steps were followed to ensure all project goals and stakeholder communications were finalized.
+
+Overall, while there were apparent challenges and delays in some task areas, it seems the project was managed with an understanding of these issues, allowing for eventual completion. Proper documentation and process adherence, especially towards the end, likely helped in addressing and compensating for these complexities.

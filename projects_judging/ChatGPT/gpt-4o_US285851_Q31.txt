@@ -1,0 +1,17 @@
+From the analysis of the event log provided, the primary indicator of unexpected issues or obstacles is the significant delay in the task "Confirmar/garantir fonte orçamentária (FOI doador)," which took 55 days to complete. This duration is significantly longer than most other tasks in the project, suggesting a delay or difficulty in securing the project's funding source. 
+
+Here are the observations and possible management strategies:
+
+1. **Delay in Budget Confirmation:**
+   - **Issue:** The task "Confirmar/garantir fonte orçamentária (FOI doador)" took 55 days, which is notably longer compared to other tasks that generally take between 1 to 10 days. It indicates a bottleneck or delay in securing or confirming the budget.
+   - **Management:** The project team likely had to engage in additional communication or negotiations with stakeholders or financial departments to resolve this issue. The extended duration implies that managing this task required proactive interventions—possibly involving escalation to senior management, re-prioritizing resources, or revisiting the budget plans to adjust allocations.
+
+2. **Task Overlaps and Coordination:**
+   - Many tasks seem to have been scheduled concurrently or to slightly overlap, such as "Solicitar reserva/alocação de todos os recursos envolvido no projeto" (repeated entries) and other sequential planning activities. Efficient coordination was necessary to ensure these tasks did not cause further delays. 
+   - **Management:** Effective use of project management tools or coordination meetings may have been employed to handle these simultaneous activities, optimizing resource allocation and minimizing waiting times.
+
+3. **Implementation and Certification Delays:**
+   - Tasks like "Certificação da Implantação" also took 8 days, repeated at various stages of the project. Delays here would likely relate to thorough testing and quality checks, ensuring compliance to security or operational standards.
+   - **Management:** Delays in certification and validation could have been managed by iterative testing cycles, reallocating technical resources for time-sensitive validation, or accelerating checklists and documentation processes.
+
+Overall, the project appears to have dealt with its most significant obstacle—the lengthy budget confirmation step—through extended time allocation and likely increased managerial oversight to ensure subsequent processes were not adversely impacted. Communication and collaboration efforts were crucial in handling this delay. Additionally, concurrent scheduling suggests an adaptive approach to managing overlapped or dependent tasks.
