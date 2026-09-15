@@ -1,50 +1,57 @@
 # LLM_PM_Tasks — Assessing the Effectiveness of Large Language Models in Project Management
 
-Code, data and results supporting the MSc dissertation **"Assessing Effectiveness of Large Language Models in Project Management"** (Alexandre José Silva Abdala Jr., Universidade Lusófona, MSc in Computer Science and Information Systems, adviser: Prof. João Caldeira, December 2025).
+Code, data and results from the MSc dissertation Assessing Effectiveness of Large Language Models in Project Management (Universidade Lusófona, MSc in Computer Science and Information Systems, supervised by Prof. João Caldeira, December 2025).
 
-## Overview
+## What this is about
 
-Large language models (LLMs) are increasingly proposed as assistants for project managers, but their reliability — both as *answer generators* and as *judges* of other models' answers — is largely untested in this domain. This study asks two questions:
+There is a lot of talk about using LLMs to help project managers, but not much evidence on whether they actually give good answers, or whether an LLM can be trusted to grade another LLM's answer. The study tries to answer three questions:
 
-1. How well do LLMs answer everyday project management questions when given real project event logs?
-2. How closely do LLM-based judges (LLM-as-a-judge) align with experienced human project managers when scoring those answers on a shared rubric?
+1. When humans and LLMs both act as judges, how much do they agree with each other?
+2. If an LLM is used as a judge, can its scores be trusted?
+3. How far can a project manager trust an answer written by an LLM?
 
-## Methodology
+## How the study was done
 
-- **Projects:** three completed IT-infrastructure projects (a sales-performance application, a network device discovery migration, and an Azure Boards implementation). Microsoft Project files were exported to CSV event logs (project ID, task ID, task name, duration, start/finish dates, resource names) and embedded in the prompts as context.
-- **Questions:** ten questions typical of a completed-project review (e.g. on-time/on-budget delivery, causes of delays, adherence to plan, resource usage, milestones, lessons learned), asked per project and across all three projects together.
-- **Evaluated models:** `gpt-3.5-turbo` and `gpt-4o` (OpenAI, online) and `deepseek-r1`, `llama3.2` and `qwen3` (run locally via Ollama). Each question was repeated five times per model to measure response consistency.
-- **Judges:** two human project managers (5–10 and 10+ years of experience, one PMP-certified) and two LLM judges (GPT-4o and GPT-5). All judges scored every answer independently on a 0–3 rubric (0 = completely inadequate, 1 = generic, 2 = partially aligned, 3 = fully aligned).
-- **Agreement analysis:** Weighted Cohen's kappa, Kendall's W, Spearman's rho and Krippendorff's alpha, computed per question, per model and per project.
+The study used three completed IT infrastructure projects (a sales revenue monitoring application, the migration of a network device discovery application, and an Azure Boards rollout), exported from Microsoft Project to CSV event logs (project ID, task ID, task name, duration, start and finish dates, resource names) which were then used as context in the prompts.
 
-## Key Findings
+Ten questions of the kind you would ask in a post-project review were then put to each model: were deliverables on time and on budget, what caused the delays, were milestones met, what would you do differently, and so on. Each question was asked per project and once more across all three projects together, and every prompt was repeated five times per model to check how stable the answers are.
 
-- **Humans agree with each other far more than they agree with LLMs.** Human–human weighted kappa was around 0.74, versus roughly 0.2 for human–LLM pairs; Krippendorff's alpha was negative for most human–LLM comparisons.
-- **LLM judges are systematically lenient.** Human mean scores were around 1.3 on the 0–3 scale, while LLM judges averaged 2.6–2.8, compressing almost all ratings into the 2–3 range even where humans scored 0 or 1.
-- **LLM judges are consistent with each other but not with experts.** LLM–LLM agreement was substantial, indicating reproducible behaviour, yet this internal consistency did not translate into alignment with human judgement.
-- **DeepSeek and Qwen stood out** among the evaluated models with distinct performance profiles.
-- **Possible training-data bias.** Judge and evaluated models may share overlapping training data (and in some cases the same vendor), which may lead LLM judges to favour similarly trained models.
+The models tested were gpt-3.5-turbo and gpt-4o (OpenAI API) and deepseek-r1, llama3.2 and qwen3 running locally through Ollama.
 
-**Bottom line:** LLMs can serve as fast, reproducible first-pass assistants for project management questions, but they should not replace expert human judgement — as answerers or as judges — without calibration and human oversight.
+Every answer was then scored on a 0–3 scale (0 = completely inadequate, 1 = generic, 2 = partially aligned, 3 = fully aligned) by four independent judges: two project managers (one with 5–10 years of experience, one with more than 10 and a PMP certification) and two LLM judges, GPT-4o and GPT-5. Agreement between judges was measured with weighted Cohen's kappa, Kendall's W, Spearman's rho and Krippendorff's alpha, broken down per question, per model and per project.
+
+## What came out of it
+
+The two human judges agreed with each other reasonably well (weighted kappa around 0.74). Humans and LLM judges did not: kappa dropped to around 0.2, and Krippendorff's alpha was negative on most items.
+
+The main reason is that LLM judges are far too generous. Human scores averaged about 1.3 on the 0–3 scale; the LLM judges averaged 2.6–2.8 and put almost everything at 2 or 3, including answers the humans had scored 0 or 1.
+
+The two LLM judges did agree with each other (moderate to substantial kappa), so they are consistent, they are just consistently wrong relative to the experts.
+
+Among the answering models, deepseek-r1 and qwen3 got slightly higher medians from the human judges than gpt-3.5-turbo and llama3.2, but the gap between human and LLM scoring was the same for all of them.
+
+A caveat worth keeping in mind: the judge models and some of the evaluated models come from the same vendor and likely overlap in training data, which may make the judges lean towards answers that look like their own.
+
+In short: LLM answers are useful as a first draft that an experienced project manager still needs to review, and LLM-as-a-judge is a quick, reproducible approximation, not a substitute for expert scoring.
 
 ## Repository Contents
 
 | Path | Description |
 |------|-------------|
-| `Benchmark.py` | Main driver that sends each question/prompt to the selected models and saves answers to Excel |
-| `ChatGPT.py`, `Ollama.py`, `Anthropic.py`, `Google.py`, `Mistral.py`, `HF.py`, `DeepInfra.py` | Thin wrappers for each LLM engine (only OpenAI and Ollama were used in the study) |
-| `query.py`, `convert_csv.py` | Helper scripts (prompt querying; CSV → XES event-log conversion with pm4py) |
+| `Benchmark.py` | Sends each prompt to the selected models and writes the answers to Excel |
+| `ChatGPT.py`, `Ollama.py`, `Anthropic.py`, `Google.py`, `Mistral.py`, `HF.py`, `DeepInfra.py` |Small wrappers per LLM provider (only OpenAI and Ollama were used in the study) |
+| `query.py`, `convert_csv.py` | Helpers (prompt querying; CSV to XES conversion with pm4py) |
 | `projects_questions/` | Prompts: project description + event log + question |
-| `projects_answers/` | Raw answers per model, project and question (`<model>_<projectID>_Q<n>.txt`) |
+| `projects_answers/` | Raw answers, one file per model, project and question (`<model>_<projectID>_Q<n>.txt`) |
 | `projects_judging/` | LLM-as-a-judge outputs for each answer |
 | `ul-projects-settings.xlsx`, `ul-projects-settings_judge.xlsx`, `benchmark_settings.xlsx` | Benchmark configuration (models, options, questions) |
 | `RC.xlsx`, `RC-New2.xlsx` | Master results files with all answers and judge scores |
-| `AI-Evaluation.ipynb`, `AI-Evaluation-New.ipynb`, `Runtime.ipynb` | Analysis notebooks (agreement metrics, plots) |
-| `concordance_per_*.tex`, `*.png`, `*.pdf` | Generated tables and figures used in the dissertation |
+| `AI-Evaluation.ipynb`, `AI-Evaluation-New.ipynb`, `Runtime.ipynb` | Notebooks with the agreement metrics and plots |
+| `concordance_per_*.tex`, `*.png`, `*.pdf` | Tables and figures used in the study |
 
 ## Limitations
 
-Limited computational resources restricted the number of models tested; all projects were already completed (retrospective analysis); the evaluation was offline rather than embedded in live workflows; a single rubric and prompting strategy were used; and both LLM judges came from the same vendor.
+Compute was limited, so only a handful of models were tested. All three projects were already finished, so this is a retrospective exercise rather than live project support. The evaluation used a single rubric and a single prompting style, and both LLM judges came from the same vendor. Results may not carry over to newer models or to ongoing projects.
 
 ## Citation
 
